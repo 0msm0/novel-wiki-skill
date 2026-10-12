@@ -1,0 +1,20 @@
+[
+{"query":"just finished chapter 14 of my fantasy novel (it's in manuscript/ch14.md). update wiki","should_trigger":true},
+{"query":"can you refresh the lore wiki for my book? I rewrote episodes 3 and 4 last night and added a new character called Ishaan","should_trigger":true},
+{"query":"I'm writing a serialized sci-fi story in this repo, one episode per markdown file in episodes/. I'd love a fandom-style wiki site for it like Wookieepedia, with character pages and a timeline","should_trigger":true},
+{"query":"sync the story bible site with the new chapter pls","should_trigger":true},
+{"query":"add episode 22 to the wiki and tell me if anything contradicts earlier episodes","should_trigger":true},
+{"query":"on the wiki, Kael's sword should be called Dawnbreaker not Sunbreaker, and make Lira a major character","should_trigger":true},
+{"query":"my readers keep asking who's who in my web serial. could you generate character and location pages from the chapters folder that I can host on github pages?","should_trigger":true},
+{"query":"build me an encyclopedia of my novel's world from the drafts - factions, magic system rules, places, all of it","should_trigger":true},
+{"query":"update the wiki, chapter 9 is done","should_trigger":true},
+{"query":"update the wiki page in our docs/ folder to describe the new auth middleware and the config flags we added in src/server","should_trigger":false},
+{"query":"what does wikipedia say about the history of the Lantern Coast in Maine? need a quick summary","should_trigger":false},
+{"query":"write chapter 15 of my novel: Mira confronts Varr Dane at the Gull Gate, about 3000 words, keep the voice of earlier chapters","should_trigger":false},
+{"query":"give me beta reader feedback on chapters 1-5 of my manuscript, where would readers stop reading","should_trigger":false},
+{"query":"set up a MediaWiki instance in docker for our engineering team's internal knowledge base","should_trigger":false},
+{"query":"summarize chapter 3 of my novel in two sentences for my newsletter","should_trigger":false},
+{"query":"write a back-cover blurb and query letter for my finished fantasy novel","should_trigger":false},
+{"query":"convert my GitHub repo wiki pages into a static site with mkdocs","should_trigger":false},
+{"query":"make a character relationship diagram image for my book club's discussion of Dune","should_trigger":false}
+]

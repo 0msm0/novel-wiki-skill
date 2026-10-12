@@ -1,0 +1,277 @@
+{
+  "episode": {
+    "number": 2,
+    "title": "The Salt Barge",
+    "source": "chapters/02-the-salt-barge.md",
+    "pov": ["mira-osk"],
+    "summary": "[[mira-osk]] and [[tobin-reed]] flee [[port-hallow]] on the salt barge *[[patience]]* with the tidecaller [[seren]], who drains the harbour to escape Captain [[varr-dane]]'s cutter after Varr reveals he knew Mira's mother. Tobin goes overboard but climbs back aboard, and Mira glimpses a silver Warden hook hidden in the collar of the deckhand [[pell]].",
+    "synopsis": [
+      "Mira paid her last three silver to [[old-bettany]], the one-eyed master of the salt barge *[[patience]]*, at the [[the-weir|Weir]] landing; Bettany did not ask what was in the oilcloth. Her deckhand, a silent boy called [[pell]] with a gull feather in his cap, coiled rope and stared at the compass bundle.",
+      "The hooded woman was already aboard and introduced herself as [[seren]] of [[esk]]. When [[tobin-reed]] recalled his gran's tale that Esk folk can call the tide, Seren pushed back her hood, revealing cropped white-blond hair and a tired face of about thirty, and confirmed that [[tidecalling]] is real and that she is a tidecaller.",
+      "The barge pushed off at the second bell. At the harbour mouth, where the [[gull-gate]]'s chain hung across the water, a Warden cutter with shuttered lanterns intercepted them, Captain [[varr-dane]] in the bow. Bettany insisted she carried only salt. Varr picked out Mira as \"the girl with the burned hand\" and called her [[ada-osk]]'s daughter, saying he had known her mother, though Mira had never told anyone her mother's name in the city.",
+      "Seren stood on the salt sacks, took the silver ring from her lip and spoke a word that was not a word. The harbour drained: the water fell away from the cutter until it sat crooked on the mud, and the Gull Gate chain sagged into a trench of silt. The *Patience* slid through on the falling water, and the returning sea smashed the cutter against the harbour wall.",
+      "Past the gate, Seren collapsed with a bleeding nose. Asked the cost, she explained that every call takes a memory she cannot choose, and that she no longer remembers her sister's face.",
+      "At grey dawn they counted heads: Bettany, Pell, Seren, Mira and Tobin, who was soaked to the waist and grinning. He had gone over the stern when the water dropped and climbed back up the rudder chain. Mira called him an idiot and hugged him.",
+      "Pell stood at the stern watching the wreck of the cutter. When he turned, his gull-feather cap was gone, and Mira alone saw a silver hook, the emblem of the [[grey-wardens]], pinned inside his collar.",
+      "The [[brass-compass]] now pointed south and west, out to open sea and toward [[ilith]]. Though it was still dark, Mira held it in her bare hand, not caring what it pointed at."
+    ],
+    "word_count": 579
+  },
+  "entities": [
+    {
+      "id": "mira-osk",
+      "lead": "**Mira Osk** is a nineteen-year-old pickpocket from [[port-hallow]] on the [[lantern-coast]]. Her theft of a strange brass compass from a [[grey-wardens|Grey Warden]] captain sets the story in motion and forces her to flee the city.",
+      "tagline": "Nineteen-year-old pickpocket from Port Hallow who stole the brass compass.",
+      "infobox": {
+        "Occupation": "Pickpocket, fugitive"
+      },
+      "sections": {
+        "Appearance": "Mira is short, small enough to vanish behind a fishwife's basket. Her right palm carries a shiny burn scar from the fire that killed her mother; [[varr-dane]] recognised her as \"the girl with the burned hand\".",
+        "Personality": "Mira is bold to the point of recklessness, preferring to rob a Warden because \"Wardens have the best pockets\". She loves Port Hallow \"the way you love a dog that bites\" and treats danger with dry humour. She assumes that everything costs something. Fiercely attached to [[tobin-reed]], she scolds and hugs him in the same breath, and she is defiant about the compass, holding it bare after dark despite the warning."
+      },
+      "history": "Mira paid her last three silver for passage on the *[[patience]]* and met [[seren]] properly. When [[varr-dane]] intercepted the barge, he called her Ada Osk's daughter and claimed to have known her mother, shaking her badly. After Seren drained the harbour and the barge escaped, Mira found that [[tobin-reed]] had gone overboard and climbed back aboard, and hugged him. She alone saw the silver Warden hook pinned inside [[pell]]'s collar. At the end of the episode she held the [[brass-compass]] in her bare hand in the dark as it pointed toward [[ilith]].",
+      "relationships": [
+        {"target": "tobin-reed", "label": "Childhood friend", "note": "Grew up together in the Weir; fled Port Hallow with her on the Patience."},
+        {"target": "seren", "label": "Ally", "note": "Seren guided her onto the Patience and got them out of the harbour."},
+        {"target": "varr-dane", "label": "Pursuer", "note": "Robbed by her; claims to have known her mother."},
+        {"target": "pell", "label": "Shipmate", "note": "Mira is the only one who saw the silver hook hidden in his collar."}
+      ],
+      "quotes": [
+        {"text": "What did that cost?", "context": "to Seren, after the tidecalling"},
+        {"text": "You're an idiot.", "context": "to Tobin, before hugging him"}
+      ],
+      "trivia": ["Mira is the point-of-view character of Episodes 1 and 2."],
+      "presence": "pov"
+    },
+    {
+      "id": "seren",
+      "type": "character",
+      "name": "Seren of Esk",
+      "aliases": ["Seren", "The hooded woman"],
+      "importance": "major",
+      "tagline": "A tidecaller from the northern islands of Esk.",
+      "lead": "**Seren of Esk** is a tidecaller from the northern islands of [[esk]] who helps [[mira-osk]] escape [[port-hallow]] with the [[brass-compass]].",
+      "status": "Alive",
+      "infobox": {
+        "Age": "About thirty (apparent)",
+        "Hair / Eyes": "Cropped white-blond hair",
+        "Occupation": "Tidecaller",
+        "Home": "[[esk]]",
+        "Abilities": "[[tidecalling]]",
+        "Family": ["A sister (unnamed)"]
+      },
+      "sections": {
+        "Appearance": "Seren looks about thirty, with cropped white-blond hair, a pale chin and a face that looks tired in a way sleep won't fix. She wears a hooded sea-cloak the colour of wet slate and wore a thin silver ring through her lower lip until she used it to call the tide.",
+        "Personality": "Calm and economical with words, Seren moves silently and speaks with a soft northern accent. She is frank about the price of her power and refuses to treat it as a trick.",
+        "Abilities": "Seren is a [[tidecalling|tidecaller]]. Holding the silver ring from her lip in her fist and speaking \"a word that wasn't a word\", she can make the sea draw back and return. Each call takes one of her memories at random; it has already taken her sister's face, and using it leaves her exhausted and bleeding from the nose."
+      },
+      "history": "Seren waited aboard the *[[patience]]* and named herself as Seren of [[esk]], confirming that she is a tidecaller. When [[varr-dane]]'s cutter blocked the [[gull-gate]], she drained the harbour, grounding the cutter, letting the barge pass over the sunken chain and smashing the cutter when the sea returned. Afterwards she collapsed with a nosebleed and told Mira that each call costs a memory.",
+      "relationships": [
+        {"target": "mira-osk", "label": "Ally", "note": "Warned her about the compass and got her out of Port Hallow."}
+      ],
+      "quotes": [
+        {"text": "Tidecalling is real. I'm a tidecaller. Don't ask me to do tricks.", "context": "aboard the Patience"},
+        {"text": "I don't remember. That's the cost. Every call takes a memory. You don't get to choose which one.", "context": "to Mira, after the escape"},
+        {"text": "I used to know my sister's face.", "context": "to Mira"}
+      ],
+      "trivia": ["She was unnamed (\"the hooded woman\") in Episode 1 and introduced herself by name in Episode 2."],
+      "presence": "appears"
+    },
+    {
+      "id": "tobin-reed",
+      "status": "Alive",
+      "lead": "**Tobin Reed** is [[mira-osk]]'s childhood friend from [[the-weir]] in [[port-hallow]], who considers himself the one who keeps her out of trouble.",
+      "tagline": "Mira Osk's childhood friend from the Weir.",
+      "sections": {
+        "Personality": "Cautious and protective, Tobin tries to talk Mira out of risky marks and is quick to see the danger in the compass. He is sceptical of legends, though he grew up on his gran's stories and still repeats them. In a crisis he is resourceful and takes danger with a grin."
+      },
+      "history": "Tobin boarded the *[[patience]]* with Mira and recalled his gran's claim that Esk folk can call the tide. When [[seren]] drained the harbour he went over the stern as the water dropped, but climbed back up the rudder chain and was found at dawn soaked to the waist and grinning. Mira called him an idiot and hugged him so hard he coughed.",
+      "relationships": [
+        {"target": "mira-osk", "label": "Childhood friend", "note": "Grew up with her in the Weir; fled Port Hallow with her on the Patience."}
+      ],
+      "quotes": [
+        {"text": "The northern islands. My gran said Esk folk can call the tide.", "context": "on meeting Seren"}
+      ],
+      "presence": "appears"
+    },
+    {
+      "id": "pell",
+      "type": "character",
+      "name": "Pell",
+      "importance": "supporting",
+      "tagline": "Silent deckhand on the salt barge Patience.",
+      "lead": "**Pell** is a silent boy who works as deckhand aboard the salt barge *[[patience]]* under [[old-bettany]].",
+      "status": "Alive",
+      "infobox": {
+        "Occupation": "Deckhand",
+        "Affiliation": "*[[patience]]*"
+      },
+      "sections": {
+        "Appearance": "Pell is a boy who wore a cap with a gull feather in it, until he lost it during the escape from [[port-hallow]].",
+        "Personality": "Silent; he works without speaking and watches closely."
+      },
+      "history": "Pell coiled rope and stared at Mira's compass bundle as she came aboard. After the escape he stood at the stern watching the wreck of the Warden cutter. When he turned, his gull-feather cap was gone, and [[mira-osk]] alone saw a silver hook, the emblem of the [[grey-wardens]], pinned inside his collar.",
+      "relationships": [
+        {"target": "old-bettany", "label": "Employer", "note": "Deckhand on her barge."}
+      ],
+      "presence": "appears"
+    },
+    {
+      "id": "varr-dane",
+      "lead": "**Captain Varr Dane** is an officer of the [[grey-wardens]] in [[port-hallow]], from whom [[mira-osk]] steals the [[brass-compass]], and who pursues her to recover it.",
+      "relationships": [
+        {"target": "mira-osk", "label": "Quarry", "note": "Pursues her for the compass; claims to have known her mother."},
+        {"target": "ada-osk", "label": "Acquaintance (claimed)", "note": "Said \"I knew your mother\" to Mira."}
+      ],
+      "history": "Varr intercepted the *[[patience]]* in a Warden cutter at the [[gull-gate]], demanding \"something of mine\". He recognised Mira as Ada Osk's daughter and said he had known her mother. [[seren]]'s tidecalling grounded the cutter and the returning sea smashed it against the harbour wall; his fate afterwards was not shown.",
+      "quotes": [
+        {"text": "Bettany. You're carrying something of mine.", "context": "from the Warden cutter"},
+        {"text": "The girl with the burned hand. Ada Osk's daughter. I knew your mother.", "context": "to Mira"}
+      ],
+      "status": "Unknown",
+      "presence": "appears"
+    },
+    {
+      "id": "ada-osk",
+      "relationships": [
+        {"target": "varr-dane", "label": "Acquaintance (claimed by him)"}
+      ],
+      "history": "[[varr-dane]] claimed to have known Ada, though Mira had never told anyone her mother's name in the city.",
+      "presence": "mentioned"
+    },
+    {
+      "id": "old-bettany",
+      "type": "character",
+      "name": "Old Bettany",
+      "aliases": ["Bettany"],
+      "importance": "supporting",
+      "tagline": "One-eyed master of the salt barge Patience.",
+      "lead": "**Old Bettany** is the one-eyed master of the salt barge *[[patience]]*, which carries [[mira-osk]] out of [[port-hallow]].",
+      "status": "Alive",
+      "infobox": {
+        "Occupation": "Barge master",
+        "Affiliation": "*[[patience]]*"
+      },
+      "sections": {
+        "Appearance": "Bettany is a one-eyed woman.",
+        "Personality": "Discreet and unintimidated: she takes payment without asking questions and spits over the side at a Warden captain."
+      },
+      "history": "Bettany took Mira's last three silver for passage without asking what was in the oilcloth. Confronted by [[varr-dane]], she insisted she carried only salt.",
+      "relationships": [
+        {"target": "pell", "label": "Deckhand", "note": "Works her barge."}
+      ],
+      "quotes": [
+        {"text": "Salt, Captain. Same as every night.", "context": "to Varr Dane"}
+      ],
+      "presence": "appears"
+    },
+    {
+      "id": "patience",
+      "type": "item",
+      "name": "Patience",
+      "aliases": ["the salt barge"],
+      "importance": "supporting",
+      "tagline": "Salt barge that carries Mira and Seren out of Port Hallow.",
+      "lead": "The ***Patience*** is a salt barge mastered by [[old-bettany]], which carries [[mira-osk]] and [[seren]] out of [[port-hallow]].",
+      "infobox": {
+        "Type": "Salt barge",
+        "Owner(s)": ["[[old-bettany]] (master)"],
+        "Crew": ["[[old-bettany]] (master)", "[[pell]] (deckhand)"]
+      },
+      "sections": {
+        "Description": "A flat black hull that sits low in the water, heaped with sacks of salt under tarpaulin, with a rudder chain at the stern. It sails from the [[the-weir|Weir]] landing at the second bell."
+      },
+      "history": "The *Patience* left the Weir landing at the second bell and escaped the harbour when [[seren]] drained the water beneath the [[gull-gate]] chain.",
+      "presence": "appears"
+    },
+    {
+      "id": "esk",
+      "type": "location",
+      "name": "Esk",
+      "importance": "supporting",
+      "tagline": "Northern islands said to be home to tidecallers.",
+      "lead": "**Esk** is a group of northern islands, the home of [[seren]]. Its people are said to be able to call the tide.",
+      "infobox": {
+        "Type": "Islands",
+        "Notable residents": ["[[seren]]"]
+      },
+      "sections": {
+        "Culture / Society": "According to [[tobin-reed]]'s gran, Esk folk can call the tide; Seren confirms that [[tidecalling]] is real."
+      },
+      "presence": "mentioned"
+    },
+    {
+      "id": "tidecalling",
+      "type": "concept",
+      "name": "Tidecalling",
+      "importance": "major",
+      "tagline": "Power to command the tide, at the cost of memory.",
+      "lead": "**Tidecalling** is the power to make the sea draw back and return, associated with the people of [[esk]]. Its practitioners are called tidecallers.",
+      "infobox": {
+        "Type": "Magic",
+        "Practitioners": ["[[seren]]"],
+        "Source / Origin": "Associated with [[esk]]"
+      },
+      "sections": {
+        "Overview": "A tidecaller can command the water itself: in one call, the sea in [[port-hallow]] harbour fell away twenty feet and then returned all at once.",
+        "Rules & limitations": "- Seren performed it holding a silver ring (from her lip) in her fist and speaking \"a word that wasn't a word\".\n- Every call takes a memory from the caller, and the caller does not choose which one.\n- The call leaves the caller physically drained, with a bleeding nose.",
+        "Known uses": "- Draining [[port-hallow]] harbour to ground [[varr-dane]]'s cutter and pass the [[gull-gate]] chain ([[ep:2]]).",
+        "Known users": "- [[seren]]"
+      },
+      "presence": "mentioned"
+    },
+    {
+      "id": "gull-gate",
+      "sections": {
+        "Description": "The Gull Gate guards the mouth of [[port-hallow]] harbour, where a chain hangs across the water. It has a bell that rings the closing of the harbour. Thieves are hanged from it on the first day of every month."
+      },
+      "history": "A Warden cutter blocked the gate; [[seren]] drained the harbour so the chain sagged into the silt and the *[[patience]]* passed over it.",
+      "presence": "appears"
+    },
+    {
+      "id": "brass-compass",
+      "sections": {
+        "Powers & properties": "- The needle does not point north; it swings slowly and deliberately toward drowned things, such as the black water beyond the breakwater.\n- According to [[seren]], if held bare (\"naked\") after dark, it will eventually point at the person holding it.\n- An unsigned letter claims it \"knows the way to [[ilith]]\".\n- Its needle seems to pull at the holder \"the way a held breath pulls\". It turned to point at the [[the-weir|Weir]] landing, and once at sea it pointed south and west, out to open water."
+      },
+      "history": "[[varr-dane]] demanded its return from the *[[patience]]*, and the deckhand [[pell]] stared at its bundle. Once at sea, it pointed south and west toward open water, which Mira took to be the way to [[ilith]]; she held it bare in the dark.",
+      "presence": "appears"
+    },
+    {
+      "id": "ilith",
+      "history": "As the coast fell away, the [[brass-compass]] pointed south and west, toward open sea and, Mira believed, Ilith.",
+      "presence": "mentioned"
+    },
+    {
+      "id": "grey-wardens",
+      "history": "A Warden cutter under [[varr-dane]] intercepted the *[[patience]]* and was wrecked by [[seren]]'s tidecalling. Afterwards [[mira-osk]] saw the Wardens' silver hook pinned inside the collar of the barge's deckhand, [[pell]].",
+      "presence": "appears"
+    },
+    {
+      "id": "the-weir",
+      "history": "The *[[patience]]* departed from the Weir landing at the second bell.",
+      "presence": "appears"
+    },
+    {
+      "id": "port-hallow",
+      "history": "[[seren]] drained the harbour to let the *[[patience]]* escape; a Warden cutter was smashed against the harbour wall.",
+      "presence": "appears"
+    }
+  ],
+  "timeline": [
+    {"when": "Night 1, second bell", "sort": 1.4, "text": "The *[[patience]]* leaves the Weir landing carrying [[mira-osk]], [[tobin-reed]] and [[seren]].", "entities": ["patience", "mira-osk", "seren", "tobin-reed"]},
+    {"when": "Night 1", "sort": 1.5, "text": "[[seren]] drains [[port-hallow]] harbour by [[tidecalling]]; [[varr-dane]]'s cutter is wrecked at the [[gull-gate]].", "entities": ["seren", "varr-dane", "gull-gate", "tidecalling"]},
+    {"when": "Day 2, dawn", "sort": 2.0, "text": "Heads are counted aboard the *[[patience]]*: [[tobin-reed]], who went overboard, is back aboard; [[mira-osk]] sees a silver hook in [[pell]]'s collar.", "entities": ["tobin-reed", "pell", "mira-osk"]}
+  ],
+  "glossary": [
+    {"term": "Tidecaller", "definition": "One who practises tidecalling; associated with the islands of Esk.", "see": "tidecalling"},
+    {"term": "Warden cutter", "definition": "A patrol boat of the Grey Wardens.", "see": "grey-wardens"},
+    {"term": "Silver hook", "definition": "The emblem of the Grey Wardens, stitched on the collars of their grey coats.", "see": "grey-wardens"}
+  ],
+  "threads": [
+    {"id": "how-varr-knew-ada", "title": "How did Varr Dane know Ada Osk?", "text": "Varr names Mira as Ada Osk's daughter and says he knew her mother, though Mira never told anyone her mother's name in the city."},
+    {"id": "pells-hook", "title": "Why does Pell wear a Warden hook?", "text": "After the escape, Pell's gull-feather cap is gone and Mira alone sees a silver hook, the Grey Wardens' emblem, pinned inside his collar. Earlier he stared at the compass bundle."},
+    {"id": "compass-points-at-you", "title": "Will the compass point at its holder?", "text": "Mira deliberately holds the compass bare in the dark at the end of Episode 2."},
+    {"id": "is-ilith-real", "title": "Is Ilith real?", "text": "At sea the compass points south and west, which Mira takes to be toward Ilith."},
+    {"id": "serens-purpose", "title": "What does Seren want with the compass?", "text": "Seren admitted she meant to steal it herself, yet guided Mira out of the city; her aims remain unstated."}
+  ]
+}

@@ -1,0 +1,115 @@
+[
+  {
+    "run": 1,
+    "timestamp": "2026-10-12T01:58:50-04:00",
+    "mode": "first build",
+    "request": "hey so i've been writing my novel episode by episode in this project (chapters folder). can you update wiki",
+    "episodes": [
+      "1",
+      "2"
+    ],
+    "revised": [],
+    "created": [
+      "mira-osk",
+      "tobin-reed",
+      "ada-osk",
+      "varr-dane",
+      "seren",
+      "brass-compass",
+      "port-hallow",
+      "lantern-coast",
+      "fishmarket-stair",
+      "the-weir",
+      "gull-gate",
+      "grey-wardens",
+      "harbour-council",
+      "ilith",
+      "pell",
+      "old-bettany",
+      "patience",
+      "esk",
+      "tidecalling"
+    ],
+    "updated": [],
+    "removed": [],
+    "looked_at": [
+      "README.md",
+      "chapters/ (3 files)",
+      "chapters/01-the-brass-thief.md",
+      "chapters/02-the-salt-barge.md",
+      "wiki brief (after episode 1)",
+      "show: mira-osk, seren, varr-dane, brass-compass"
+    ],
+    "steps": [
+      "No wiki.config.json found: created wiki/ with globs chapters/*.md and label Episode",
+      "Ran scan: 3 NEW files",
+      "Read episode 1 in full; wrote patch (13 entities, timeline, glossary, threads); dry run clean; applied",
+      "Ran brief; read episode 2 in full; pulled current records for pages it develops; wrote and applied patch",
+      "[engine] merged episode 1; rebuilt site (26 pages); 0 link warning(s)",
+      "[engine] merged episode 2; rebuilt site (33 pages); 0 link warning(s)"
+    ],
+    "decisions": [
+      "The hooded woman of episode 1 is Seren of Esk (named in episode 2): one page, linked as 'the hooded woman' in episode 1 to avoid spoiling the name",
+      "The compass is never named in the text: page titled 'Brass compass'"
+    ],
+    "warnings": [
+      "Episode 2: Mira 'had never told anyone her mother's name in this city', yet Ada ran a stall in the Weir; check whether that is deliberate"
+    ],
+    "notes": "",
+    "engine_version": "1.0.0"
+  },
+  {
+    "run": 2,
+    "timestamp": "2026-10-12T01:58:50-04:00",
+    "mode": "incremental update",
+    "request": "update wiki, episode 3 is done",
+    "episodes": [
+      "3"
+    ],
+    "revised": [],
+    "created": [
+      "second-compass"
+    ],
+    "updated": [
+      "mira-osk",
+      "seren",
+      "tobin-reed",
+      "old-bettany",
+      "varr-dane",
+      "ilith",
+      "brass-compass",
+      "grey-wardens",
+      "harbour-council",
+      "tidecalling",
+      "esk",
+      "patience",
+      "gull-gate",
+      "port-hallow"
+    ],
+    "removed": [],
+    "looked_at": [
+      "wiki/wiki.config.json",
+      "chapters/03-what-the-water-keeps.md",
+      "wiki brief (20 entities)",
+      "show: mira-osk, seren, tobin-reed, ilith, tidecalling, grey-wardens"
+    ],
+    "steps": [
+      "Ran scan: 1 NEW file (chapters/03-what-the-water-keeps.md)",
+      "Ran brief to reuse existing ids",
+      "Read episode 3 in full",
+      "Pulled current records for the six pages it develops and rewrote their sections",
+      "Wrote patch: 18 entities, timeline, glossary, threads; dry run clean",
+      "[engine] merged episode 3; rebuilt site (35 pages); 0 link warning(s)"
+    ],
+    "decisions": [
+      "Resolved thread 'Is Ilith real?'",
+      "Did not equate 'the Drowning' with Ilith's sinking: the text keeps the dates in tension (300 vs 200 years)"
+    ],
+    "warnings": [
+      "Continuity: in episode 2 Tobin climbs back aboard, but episode 3 says the Wardens will hang him at the Gull Gate in six days",
+      "Pell (introduced in episode 2) does not appear in episode 3"
+    ],
+    "notes": "",
+    "engine_version": "1.0.0"
+  }
+]

@@ -1,0 +1,308 @@
+{
+  "episode": {
+    "number": 1,
+    "title": "The Brass Thief",
+    "source": "chapters/01-the-brass-thief.md",
+    "pov": ["mira-osk"],
+    "summary": "Pickpocket [[mira-osk]] steals a strange brass compass from Warden captain [[varr-dane]] in [[port-hallow]]. A hooded stranger warns her that it points at drowned things, gives her an unsigned letter naming [[ilith]], and tells her to flee on the salt barge before the harbour closes.",
+    "synopsis": [
+      "At dusk on the [[fishmarket-stair]] in [[port-hallow]], while the crowd watched the lantern-men light the lamps along the [[lantern-coast]], nineteen-year-old pickpocket [[mira-osk]] worked the upturned faces for unguarded pockets. Her childhood friend [[tobin-reed]] pointed out a [[grey-wardens|Grey Warden]] at the top of the stair, an older man carrying something wrapped in oilcloth, and warned her off. Mira robbed him anyway, bumping him on the stair and slipping away.",
+      "Behind a net-mender's shed she unwrapped her prize: a heavy compass of old brass with a star-cracked glass, engraved waves instead of an N, and a needle that swung slowly out toward the black water beyond the breakwater and stayed there. Tobin called it a hanging; Mira called it a fortune, though the needle seemed to pull at her.",
+      "A hooded woman in a slate-coloured sea-cloak, with a silver ring through her lower lip and a soft northern accent, appeared at the end of the alley. She told Mira to put the [[brass-compass|compass]] back in its cloth, because it points at drowned things and, held bare after dark, would eventually point at her. She admitted she had meant to steal it herself, named the man Mira had robbed as Captain [[varr-dane]], warned that he would close the harbour by morning, and told Mira to be on the salt barge at the [[the-weir|Weir]] landing before the second bell. She tossed Mira a letter sealed in blue wax and vanished.",
+      "In their room under the roof, Mira and Tobin read the letter by candlelight: *The compass knows the way to Ilith. Do not let the Wardens take it south.* It was unsigned, in a backward-slanting hand. Tobin dismissed [[ilith]] as a story his gran told about a greedy city that sank.",
+      "Outside, the bell at the [[gull-gate]] began ringing the closing of the harbour hours early. As Mira wrapped the compass, she felt the needle turn through the cloth: it was pointing at the Weir landing."
+    ],
+    "word_count": 625
+  },
+  "entities": [
+    {
+      "id": "mira-osk",
+      "type": "character",
+      "name": "Mira Osk",
+      "importance": "major",
+      "tagline": "Nineteen-year-old pickpocket from Port Hallow who stole the brass compass.",
+      "lead": "**Mira Osk** is a nineteen-year-old pickpocket from [[port-hallow]] on the [[lantern-coast]]. Her theft of a strange brass compass from a [[grey-wardens|Grey Warden]] captain sets the story in motion.",
+      "status": "Alive",
+      "infobox": {
+        "Age": "19",
+        "Occupation": "Pickpocket",
+        "Home": "[[the-weir]], [[port-hallow]]",
+        "Family": ["[[ada-osk]] (mother, deceased)"]
+      },
+      "sections": {
+        "Appearance": "Mira is short, small enough to vanish behind a fishwife's basket. Her right palm carries a shiny burn scar from the fire that killed her mother.",
+        "Personality": "Mira is bold to the point of recklessness, preferring to rob a Warden because \"Wardens have the best pockets\". She loves Port Hallow \"the way you love a dog that bites\" and treats danger with dry humour, though the compass unsettles her.",
+        "Abilities": "A skilled pickpocket who works crowds at dusk, Mira is quick in her left hand and practised at bumping a mark, apologising and disappearing.",
+        "Background": "Mira grew up in [[the-weir]] alongside [[tobin-reed]], under the same leaking roof. Her mother, [[ada-osk]], died when her stall caught fire; Mira's right palm was burned that night."
+      },
+      "history": "Working the [[fishmarket-stair]] at dusk, Mira ignored [[tobin-reed]]'s warning and picked the pocket of Captain [[varr-dane]], stealing the oilcloth-wrapped [[brass-compass]]. A [[seren|hooded stranger]] warned her about the compass, gave her an unsigned letter about [[ilith]] and told her to flee on the salt barge. As the harbour bell rang early, Mira felt the compass needle turn toward the Weir landing.",
+      "relationships": [
+        {"target": "tobin-reed", "label": "Childhood friend", "note": "Grew up together in the Weir; he sees himself as the one who keeps her out of trouble."},
+        {"target": "ada-osk", "label": "Mother", "note": "Died in a fire at her stall."}
+      ],
+      "quotes": [
+        {"text": "Wardens have the best pockets.", "context": "to Tobin, before robbing Varr Dane"},
+        {"text": "It's a fortune.", "context": "on the compass"}
+      ],
+      "trivia": ["Mira is the point-of-view character of Episode 1."],
+      "presence": "pov"
+    },
+    {
+      "id": "tobin-reed",
+      "type": "character",
+      "name": "Tobin Reed",
+      "importance": "major",
+      "tagline": "Mira Osk's childhood friend from the Weir.",
+      "lead": "**Tobin Reed** is [[mira-osk]]'s childhood friend from [[the-weir]] in [[port-hallow]], who considers himself the one who keeps her out of trouble.",
+      "status": "Alive",
+      "infobox": {
+        "Home": "[[the-weir]], [[port-hallow]]"
+      },
+      "sections": {
+        "Appearance": "Tobin is a head taller than Mira and poor at hiding it in a crowd.",
+        "Personality": "Cautious and protective, Tobin tries to talk Mira out of risky marks and is quick to see the danger in the compass. He is sceptical of legends, though he grew up on his gran's stories.",
+        "Background": "Tobin grew up with [[mira-osk]] under the same leaking roof in [[the-weir]]. His gran told him the story of [[ilith]] to scare him off the water, and claimed that fish could hear lies."
+      },
+      "history": "Tobin spotted Captain [[varr-dane]] on the [[fishmarket-stair]] and warned Mira not to rob him. When she unwrapped the [[brass-compass]], he called it \"a hanging\", and later dismissed [[ilith]] as one of his gran's stories while they read the unsigned letter.",
+      "relationships": [
+        {"target": "mira-osk", "label": "Childhood friend", "note": "Grew up with her in the Weir."}
+      ],
+      "quotes": [
+        {"text": "That's not a compass. That's a hanging.", "context": "on seeing the stolen compass"},
+        {"text": "Ilith is a story. A city that sank because it was greedy.", "context": "reading the unsigned letter"}
+      ],
+      "presence": "appears"
+    },
+    {
+      "id": "ada-osk",
+      "type": "character",
+      "name": "Ada Osk",
+      "importance": "minor",
+      "tagline": "Mira Osk's late mother.",
+      "lead": "**Ada Osk** was the mother of [[mira-osk]]. She died when her stall caught fire.",
+      "status": "Deceased",
+      "infobox": {
+        "Family": ["[[mira-osk]] (daughter)"]
+      },
+      "sections": {
+        "Background": "Ada kept a stall that caught fire one night; she did not come out. Her daughter Mira was burned on the right palm that night."
+      },
+      "history": "Mira remembered the night Ada's stall burned and Ada did not come out.",
+      "relationships": [
+        {"target": "mira-osk", "label": "Daughter"}
+      ],
+      "presence": "mentioned"
+    },
+    {
+      "id": "varr-dane",
+      "type": "character",
+      "name": "Varr Dane",
+      "aliases": ["Captain Varr Dane"],
+      "importance": "major",
+      "tagline": "Captain of the Grey Wardens in Port Hallow.",
+      "lead": "**Captain Varr Dane** is an officer of the [[grey-wardens]] in [[port-hallow]], from whom [[mira-osk]] steals the [[brass-compass]].",
+      "status": "Alive",
+      "infobox": {
+        "Occupation": "Warden captain",
+        "Rank / Title": "Captain",
+        "Affiliation": "[[grey-wardens]]"
+      },
+      "sections": {
+        "Appearance": "Varr Dane is an older man with a beard cropped to iron stubble, wearing the long grey coat of the Wardens."
+      },
+      "history": "Varr was carrying the oilcloth-wrapped [[brass-compass]] \"like a man carrying a baby he did not want\" when [[mira-osk]] picked his pocket on the [[fishmarket-stair]]. Whistles went up after the theft, and the [[gull-gate]] bell soon rang the closing of the harbour hours early.",
+      "presence": "appears"
+    },
+    {
+      "id": "seren",
+      "type": "character",
+      "name": "The hooded woman",
+      "importance": "major",
+      "tagline": "A hooded stranger with a northern accent who knows about the compass.",
+      "lead": "**The hooded woman** is a stranger in a slate-coloured sea-cloak who confronts [[mira-osk]] after the theft of the [[brass-compass]].",
+      "status": "Alive",
+      "sections": {
+        "Appearance": "She wears a hooded sea-cloak the colour of wet slate, with a pale chin and a thin silver ring through her lower lip.",
+        "Personality": "Calm and economical with words, she moves silently and speaks with a soft northern accent."
+      },
+      "history": "The hooded woman appeared in the alley behind the net-mender's shed, warned [[mira-osk]] that the [[brass-compass]] points at drowned things and should not be held bare after dark, and admitted she had meant to steal it herself. She identified [[varr-dane]], told Mira to board the salt barge at the [[the-weir|Weir]] landing before the second bell, tossed her a blue-sealed letter and vanished.",
+      "quotes": [
+        {"text": "It points at drowned things. If you hold it naked after dark, eventually it will point at you.", "context": "to Mira"},
+        {"text": "Someone who was going to steal it before you did.", "context": "when Mira asked who she was"}
+      ],
+      "presence": "appears"
+    },
+    {
+      "id": "brass-compass",
+      "type": "item",
+      "name": "Brass compass",
+      "aliases": ["the compass"],
+      "importance": "major",
+      "tagline": "A brass compass whose needle points at drowned things.",
+      "lead": "The **brass compass** is an old brass instrument whose needle does not point north but toward drowned things. [[mira-osk]]'s theft of it from [[varr-dane]] sets the story in motion.",
+      "infobox": {
+        "Type": "Compass",
+        "Material": "Old brass",
+        "Owner(s)": ["[[grey-wardens]] ([[varr-dane]])", "[[mira-osk]] (stolen)"]
+      },
+      "sections": {
+        "Description": "The compass is made of old brass and is heavier than it looks. Its glass is cracked in a star. The dial has no N; small engraved waves take its place. It was carried wrapped in oilcloth.",
+        "Powers & properties": "- The needle does not point north; it swings slowly and deliberately toward drowned things, such as the black water beyond the breakwater.\n- According to the hooded woman, if held bare (\"naked\") after dark, it will eventually point at the person holding it.\n- An unsigned letter claims it \"knows the way to [[ilith]]\".\n- Its needle seems to pull at the holder \"the way a held breath pulls\", and it turned to point at the [[the-weir|Weir]] landing."
+      },
+      "history": "Stolen by [[mira-osk]] from Captain [[varr-dane]] on the [[fishmarket-stair]]. Its needle pointed out past the breakwater, then, at the end of the night, toward the Weir landing.",
+      "presence": "appears"
+    },
+    {
+      "id": "port-hallow",
+      "type": "location",
+      "name": "Port Hallow",
+      "importance": "major",
+      "tagline": "Harbour city on the Lantern Coast, Mira Osk's home.",
+      "lead": "**Port Hallow** is a harbour city on the [[lantern-coast]], policed by the [[grey-wardens]] on behalf of the [[harbour-council]]. It is the home of [[mira-osk]].",
+      "infobox": {
+        "Type": "Harbour city",
+        "Region / Located in": "[[lantern-coast]]",
+        "Controlled by": "[[harbour-council]]",
+        "Notable residents": ["[[mira-osk]]", "[[tobin-reed]]", "[[varr-dane]]"]
+      },
+      "sections": {
+        "Description": "Port Hallow stinks of salt and lamp oil. At dusk, lantern-men climb their ladders to light the lamps along the coast, and crowds stop to watch.",
+        "Notable places": "- [[fishmarket-stair]]\n- [[the-weir]], with its barge landing\n- [[gull-gate]], where thieves are hanged\n- The breakwater"
+      },
+      "history": "[[mira-osk]] robbed a Warden captain on the [[fishmarket-stair]], and the harbour was closed hours early that night.",
+      "presence": "appears"
+    },
+    {
+      "id": "lantern-coast",
+      "type": "location",
+      "name": "Lantern Coast",
+      "importance": "supporting",
+      "tagline": "The lamp-lit coast on which Port Hallow stands.",
+      "lead": "The **Lantern Coast** is the coastline on which [[port-hallow]] stands, named for the lights lit along it each dusk.",
+      "infobox": {
+        "Type": "Coast / region"
+      },
+      "sections": {
+        "Description": "Each dusk, lantern-men climb ladders to light the lamps along the coast."
+      },
+      "presence": "mentioned"
+    },
+    {
+      "id": "fishmarket-stair",
+      "type": "location",
+      "name": "Fishmarket Stair",
+      "importance": "minor",
+      "tagline": "Crowded stair in Port Hallow where Mira works as a pickpocket.",
+      "lead": "The **Fishmarket Stair** is a crowded stair in [[port-hallow]] where [[mira-osk]] picks pockets at dusk.",
+      "infobox": {
+        "Type": "Stair / market",
+        "Region / Located in": "[[port-hallow]]"
+      },
+      "sections": {
+        "Description": "At dusk the stair fills with people watching the lamps lit along the coast, which makes it good ground for pickpockets. A net-mender's shed stands nearby."
+      },
+      "history": "[[mira-osk]] stole the [[brass-compass]] from [[varr-dane]] here.",
+      "presence": "appears"
+    },
+    {
+      "id": "the-weir",
+      "type": "location",
+      "name": "The Weir",
+      "aliases": ["Weir landing"],
+      "importance": "supporting",
+      "tagline": "Poor quarter of Port Hallow where Mira and Tobin grew up.",
+      "lead": "**The Weir** is a district of [[port-hallow]] where [[mira-osk]] and [[tobin-reed]] grew up. Its landing serves the salt barges.",
+      "infobox": {
+        "Type": "District",
+        "Region / Located in": "[[port-hallow]]",
+        "Notable residents": ["[[mira-osk]]", "[[tobin-reed]]"]
+      },
+      "sections": {
+        "Description": "Mira and Tobin share a room under a leaking roof in the Weir. The **Weir landing** is where the salt barge departs."
+      },
+      "history": "The hooded woman told Mira to be on the salt barge at the Weir landing before the second bell; by night's end the [[brass-compass]] pointed there.",
+      "presence": "mentioned"
+    },
+    {
+      "id": "gull-gate",
+      "type": "location",
+      "name": "Gull Gate",
+      "importance": "supporting",
+      "tagline": "Harbour gate of Port Hallow where thieves are hanged.",
+      "lead": "The **Gull Gate** is the harbour gate of [[port-hallow]], where the [[grey-wardens]] hang thieves on the first day of every month.",
+      "infobox": {
+        "Type": "Harbour gate",
+        "Region / Located in": "[[port-hallow]]",
+        "Controlled by": "[[grey-wardens]]"
+      },
+      "sections": {
+        "Description": "The Gull Gate has a bell that rings the closing of the harbour. Thieves are hanged from it on the first day of every month."
+      },
+      "history": "Its bell rang the closing of the harbour hours early on the night of the compass theft.",
+      "presence": "mentioned"
+    },
+    {
+      "id": "grey-wardens",
+      "type": "faction",
+      "name": "Grey Wardens",
+      "aliases": ["Wardens"],
+      "importance": "major",
+      "tagline": "Harbour guards of Port Hallow, serving the Harbour Council.",
+      "lead": "The **Grey Wardens** keep the harbour of [[port-hallow]] for the [[harbour-council]].",
+      "infobox": {
+        "Type": "Harbour guard",
+        "Members": ["[[varr-dane]] (captain)"],
+        "Symbol / colours": "Long grey coats with a silver hook stitched on the collar"
+      },
+      "sections": {
+        "Overview": "The Wardens keep the harbour for the [[harbour-council]]. They wear long grey coats with a silver hook stitched on the collar, and they hang thieves from the [[gull-gate]] on the first day of every month.",
+        "Known members": "- Captain [[varr-dane]]"
+      },
+      "history": "One of their captains, [[varr-dane]], was robbed of the [[brass-compass]]; the harbour was closed hours early. An unsigned letter warned not to let the Wardens take the compass south.",
+      "presence": "appears"
+    },
+    {
+      "id": "harbour-council",
+      "type": "faction",
+      "name": "Harbour Council",
+      "importance": "minor",
+      "tagline": "The governing council of Port Hallow's harbour.",
+      "lead": "The **Harbour Council** governs the harbour of [[port-hallow]]; the [[grey-wardens]] keep the harbour on its behalf.",
+      "infobox": {
+        "Type": "Council"
+      },
+      "presence": "mentioned"
+    },
+    {
+      "id": "ilith",
+      "type": "location",
+      "name": "Ilith",
+      "importance": "major",
+      "tagline": "A legendary city said to have sunk because it was greedy.",
+      "lead": "**Ilith** is a city told of in stories along the coast, said to have sunk beneath the sea because it was greedy. An unsigned letter claims the [[brass-compass]] knows the way there.",
+      "infobox": {
+        "Type": "Sunken city (legendary)"
+      },
+      "sections": {
+        "Background": "In the story [[tobin-reed]]'s gran told, Ilith was a city that sank because it was greedy; it was used to scare children off the water."
+      },
+      "history": "Named in the unsigned letter: *The compass knows the way to Ilith.*",
+      "presence": "mentioned"
+    }
+  ],
+  "timeline": [
+    {"when": "Night 1, dusk", "sort": 1.1, "text": "[[mira-osk]] steals the [[brass-compass]] from Captain [[varr-dane]] on the [[fishmarket-stair]].", "entities": ["mira-osk", "varr-dane", "brass-compass"]},
+    {"when": "Night 1", "sort": 1.2, "text": "[[seren|A hooded woman]] gives Mira an unsigned letter about [[ilith]] and tells her to flee on the salt barge.", "entities": ["seren", "mira-osk"]},
+    {"when": "Night 1, hours early", "sort": 1.3, "text": "The [[gull-gate]] bell rings the closing of [[port-hallow]] harbour.", "entities": ["gull-gate", "port-hallow"]}
+  ],
+  "glossary": [
+    {"term": "Lantern-men", "definition": "Workers who climb ladders at dusk to light the lamps along the Lantern Coast.", "see": "lantern-coast"},
+    {"term": "Second bell", "definition": "A time of night marked by the harbour bells; the salt barge leaves the Weir landing at the second bell.", "see": "port-hallow"}
+  ],
+  "threads": [
+    {"id": "who-wrote-the-letter", "title": "Who wrote the unsigned letter?", "text": "The letter, sealed in blue wax, reads: *The compass knows the way to Ilith. Do not let the Wardens take it south.* The hand slants backward, as if written left-handed and in a hurry."},
+    {"id": "why-the-wardens-had-the-compass", "title": "Why did the Wardens have the compass, and where were they taking it?", "text": "Varr Dane carried it like an unwanted burden; the letter warns not to let the Wardens take it south."},
+    {"id": "compass-points-at-you", "title": "Will the compass point at its holder?", "text": "The hooded woman warns that if held bare after dark, it will eventually point at the holder."},
+    {"id": "is-ilith-real", "title": "Is Ilith real?", "text": "Tobin calls Ilith a story; the letter claims the compass knows the way there."}
+  ]
+}

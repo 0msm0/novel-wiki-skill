@@ -1,0 +1,1459 @@
+{
+  "schema": 1,
+  "updated_at": "2026-10-12T01:58:50-04:00",
+  "episodes": {
+    "1": {
+      "number": "1",
+      "title": "The Brass Thief",
+      "arc": "",
+      "source": "chapters/01-the-brass-thief.md",
+      "hash": "bb28cdd576adb8f0",
+      "pov": [
+        "mira-osk"
+      ],
+      "summary": "Pickpocket [[mira-osk]] steals a strange brass compass from Warden captain [[varr-dane]] in [[port-hallow]]. A hooded stranger warns her that it points at drowned things, gives her an unsigned letter naming [[ilith]], and tells her to flee on the salt barge before the harbour closes.",
+      "synopsis": [
+        "At dusk on the [[fishmarket-stair]] in [[port-hallow]], while the crowd watched the lantern-men light the lamps along the [[lantern-coast]], nineteen-year-old pickpocket [[mira-osk]] worked the upturned faces for unguarded pockets. Her childhood friend [[tobin-reed]] pointed out a [[grey-wardens|Grey Warden]] at the top of the stair, an older man carrying something wrapped in oilcloth, and warned her off. Mira robbed him anyway, bumping him on the stair and slipping away.",
+        "Behind a net-mender's shed she unwrapped her prize: a heavy compass of old brass with a star-cracked glass, engraved waves instead of an N, and a needle that swung slowly out toward the black water beyond the breakwater and stayed there. Tobin called it a hanging; Mira called it a fortune, though the needle seemed to pull at her.",
+        "A hooded woman in a slate-coloured sea-cloak, with a silver ring through her lower lip and a soft northern accent, appeared at the end of the alley. She told Mira to put the [[brass-compass|compass]] back in its cloth, because it points at drowned things and, held bare after dark, would eventually point at her. She admitted she had meant to steal it herself, named the man Mira had robbed as Captain [[varr-dane]], warned that he would close the harbour by morning, and told Mira to be on the salt barge at the [[the-weir|Weir]] landing before the second bell. She tossed Mira a letter sealed in blue wax and vanished.",
+        "In their room under the roof, Mira and Tobin read the letter by candlelight: *The compass knows the way to Ilith. Do not let the Wardens take it south.* It was unsigned, in a backward-slanting hand. Tobin dismissed [[ilith]] as a story his gran told about a greedy city that sank.",
+        "Outside, the bell at the [[gull-gate]] began ringing the closing of the harbour hours early. As Mira wrapped the compass, she felt the needle turn through the cloth: it was pointing at the Weir landing."
+      ],
+      "notes": "",
+      "word_count": 625,
+      "applied_at": "2026-10-12T01:58:49-04:00"
+    },
+    "2": {
+      "number": "2",
+      "title": "The Salt Barge",
+      "arc": "",
+      "source": "chapters/02-the-salt-barge.md",
+      "hash": "8e034912a0ee401e",
+      "pov": [
+        "mira-osk"
+      ],
+      "summary": "[[mira-osk]] and [[tobin-reed]] flee [[port-hallow]] on the salt barge *[[patience]]* with the tidecaller [[seren]], who drains the harbour to escape Captain [[varr-dane]]'s cutter after Varr reveals he knew Mira's mother. Tobin goes overboard but climbs back aboard, and Mira glimpses a silver Warden hook hidden in the collar of the deckhand [[pell]].",
+      "synopsis": [
+        "Mira paid her last three silver to [[old-bettany]], the one-eyed master of the salt barge *[[patience]]*, at the [[the-weir|Weir]] landing; Bettany did not ask what was in the oilcloth. Her deckhand, a silent boy called [[pell]] with a gull feather in his cap, coiled rope and stared at the compass bundle.",
+        "The hooded woman was already aboard and introduced herself as [[seren]] of [[esk]]. When [[tobin-reed]] recalled his gran's tale that Esk folk can call the tide, Seren pushed back her hood, revealing cropped white-blond hair and a tired face of about thirty, and confirmed that [[tidecalling]] is real and that she is a tidecaller.",
+        "The barge pushed off at the second bell. At the harbour mouth, where the [[gull-gate]]'s chain hung across the water, a Warden cutter with shuttered lanterns intercepted them, Captain [[varr-dane]] in the bow. Bettany insisted she carried only salt. Varr picked out Mira as \"the girl with the burned hand\" and called her [[ada-osk]]'s daughter, saying he had known her mother, though Mira had never told anyone her mother's name in the city.",
+        "Seren stood on the salt sacks, took the silver ring from her lip and spoke a word that was not a word. The harbour drained: the water fell away from the cutter until it sat crooked on the mud, and the Gull Gate chain sagged into a trench of silt. The *Patience* slid through on the falling water, and the returning sea smashed the cutter against the harbour wall.",
+        "Past the gate, Seren collapsed with a bleeding nose. Asked the cost, she explained that every call takes a memory she cannot choose, and that she no longer remembers her sister's face.",
+        "At grey dawn they counted heads: Bettany, Pell, Seren, Mira and Tobin, who was soaked to the waist and grinning. He had gone over the stern when the water dropped and climbed back up the rudder chain. Mira called him an idiot and hugged him.",
+        "Pell stood at the stern watching the wreck of the cutter. When he turned, his gull-feather cap was gone, and Mira alone saw a silver hook, the emblem of the [[grey-wardens]], pinned inside his collar.",
+        "The [[brass-compass]] now pointed south and west, out to open sea and toward [[ilith]]. Though it was still dark, Mira held it in her bare hand, not caring what it pointed at."
+      ],
+      "notes": "",
+      "word_count": 579,
+      "applied_at": "2026-10-12T01:58:50-04:00"
+    },
+    "3": {
+      "number": "3",
+      "title": "What the Water Keeps",
+      "arc": "",
+      "source": "chapters/03-what-the-water-keeps.md",
+      "hash": "75137d5f92143cf3",
+      "pov": [
+        "mira-osk"
+      ],
+      "summary": "The *[[patience]]* finds sunken [[ilith]], and [[seren]] tells the Esk account of how its tidecallers drowned the city. Seren cannot remember writing the unsigned letter. [[mira-osk]] dives into the drowned bell tower and recovers a [[second-compass|second brass compass]] lying beside a pole bearing the [[grey-wardens]]' silver hook; both compasses then point back toward [[port-hallow]], where [[tobin-reed]] is to hang in six days.",
+      "synopsis": [
+        "On the third day at sea the water turned the colour of tea and the [[brass-compass]] needle began to tremble. [[seren]] said they were over [[ilith]]. [[old-bettany]] dropped the sail and let the *[[patience]]* drift over impossibly shallow water, through which [[mira-osk]] could see roofs, green copper domes, a bell tower with its bell still hanging and streets laid out like the lines on a palm.",
+        "Seren told them the city sank in the Year 412, three hundred years ago by the [[harbour-council|Council]]'s count. In the telling of [[esk]], the city drowned itself: the Ilithi were all tidecallers, and when a fleet came for them they called the sea in to drown it, called too hard, lost everything they remembered, and the sea never went back. Mira summed it up: a whole city forgot how to stop.",
+        "Mira showed Seren the unsigned letter with its backward-slanting hand. Seren went still: she remembered the alley and the wax, but not writing the letter. Touching the empty hole in her lip where her ring had been, she allowed that perhaps she had not written it, or perhaps the harbour call had taken the memory.",
+        "That night Mira dreamed of [[varr-dane]] saying *I knew your mother*, and woke with the compass in her fist and its needle pointing straight down.",
+        "In the morning she dove. Through the arched window of the bell tower she found a room the sea had not touched in three hundred years: a writing desk, a chair, a shelf of books gone to pulp, and on the desk a brass compass identical to hers, its glass whole, its needle pointing up at her. Beside it lay a lantern-man's pole with the silver hook of the Grey Wardens worked into its handle.",
+        "Bettany hauled Mira back aboard with the second compass. When Mira said the Wardens had been in Ilith long ago, Bettany objected that the Wardens are two hundred years old, founded by the Council after the Drowning to keep the harbour. \"Then everyone's wrong,\" said Seren.",
+        "Set side by side on the deck, the two compasses swung together and pointed north, back toward Port Hallow and the [[gull-gate]], where in six days the Wardens would hang [[tobin-reed]]. Mira began taking in the anchor rope without being asked."
+      ],
+      "notes": "",
+      "word_count": 477,
+      "applied_at": "2026-10-12T01:58:50-04:00"
+    }
+  },
+  "entities": {
+    "mira-osk": {
+      "id": "mira-osk",
+      "type": "character",
+      "name": "Mira Osk",
+      "aliases": [],
+      "tagline": "Nineteen-year-old pickpocket from Port Hallow who stole the brass compass.",
+      "lead": "**Mira Osk** is a nineteen-year-old pickpocket from [[port-hallow]] on the [[lantern-coast]]. Her theft of a strange brass compass from a [[grey-wardens|Grey Warden]] captain sets the story in motion and forces her to flee the city.",
+      "importance": "major",
+      "status": "Alive",
+      "image": "",
+      "infobox": {
+        "Age": "19",
+        "Occupation": "Pickpocket, fugitive",
+        "Home": "[[the-weir]], [[port-hallow]]",
+        "Family": [
+          "[[ada-osk]] (mother, deceased)"
+        ]
+      },
+      "sections": {
+        "Appearance": "Mira is short, small enough to vanish behind a fishwife's basket. Her right palm carries a shiny burn scar from the fire that killed her mother; [[varr-dane]] recognised her as \"the girl with the burned hand\".",
+        "Personality": "Mira is bold to the point of recklessness, preferring to rob a Warden because \"Wardens have the best pockets\". She loves Port Hallow \"the way you love a dog that bites\" and treats danger with dry humour. She assumes that everything costs something. Fiercely attached to [[tobin-reed]], she scolds and hugs him in the same breath, and she is defiant about the compass, holding it bare after dark despite the warning. When she decides to act she does not wait to be told.",
+        "Abilities": "A skilled pickpocket who works crowds at dusk, Mira is quick in her left hand and practised at bumping a mark, apologising and disappearing. She is also a capable swimmer, able to dive down to the drowned bell tower of [[ilith]] and back.",
+        "Background": "Mira grew up in [[the-weir]] alongside [[tobin-reed]], under the same leaking roof. Her mother, [[ada-osk]], died when her stall caught fire; Mira's right palm was burned that night."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "Working the [[fishmarket-stair]] at dusk, Mira ignored [[tobin-reed]]'s warning and picked the pocket of Captain [[varr-dane]], stealing the oilcloth-wrapped [[brass-compass]]. A [[seren|hooded stranger]] warned her about the compass, gave her an unsigned letter about [[ilith]] and told her to flee on the salt barge. As the harbour bell rang early, Mira felt the compass needle turn toward the Weir landing."
+        },
+        {
+          "episode": "2",
+          "text": "Mira paid her last three silver for passage on the *[[patience]]* and met [[seren]] properly. When [[varr-dane]] intercepted the barge, he called her Ada Osk's daughter and claimed to have known her mother, shaking her badly. After Seren drained the harbour and the barge escaped, Mira found that [[tobin-reed]] had gone overboard and climbed back aboard, and hugged him. She alone saw the silver Warden hook pinned inside [[pell]]'s collar. At the end of the episode she held the [[brass-compass]] in her bare hand in the dark as it pointed toward [[ilith]]."
+        },
+        {
+          "episode": "3",
+          "text": "Mira looked down through the shallow sea at the roofs of [[ilith]] and showed [[seren]] the unsigned letter, learning that Seren could not remember writing it. After dreaming of [[varr-dane]]'s words about her mother, she woke to find the [[brass-compass]] pointing straight down. In the morning she dove into the drowned bell tower and brought up a [[second-compass|second compass]], having found it beside a pole bearing the [[grey-wardens]]' silver hook, and argued that the Wardens had been in Ilith long ago. When both compasses pointed back toward [[port-hallow]], she began taking in the anchor rope."
+        }
+      ],
+      "relationships": [
+        {
+          "target": "ada-osk",
+          "label": "Mother",
+          "note": "Died in a fire at her stall.",
+          "episode": "1"
+        },
+        {
+          "target": "tobin-reed",
+          "label": "Childhood friend",
+          "note": "Grew up together in the Weir; fled Port Hallow with her on the Patience.",
+          "episode": "2"
+        },
+        {
+          "target": "seren",
+          "label": "Ally",
+          "note": "Seren guided her onto the Patience and got them out of the harbour.",
+          "episode": "2"
+        },
+        {
+          "target": "varr-dane",
+          "label": "Pursuer",
+          "note": "Robbed by her; claims to have known her mother.",
+          "episode": "2"
+        },
+        {
+          "target": "pell",
+          "label": "Shipmate",
+          "note": "Mira is the only one who saw the silver hook hidden in his collar.",
+          "episode": "2"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Wardens have the best pockets.",
+          "context": "to Tobin, before robbing Varr Dane",
+          "episode": "1"
+        },
+        {
+          "text": "It's a fortune.",
+          "context": "on the compass",
+          "episode": "1"
+        },
+        {
+          "text": "What did that cost?",
+          "context": "to Seren, after the tidecalling",
+          "episode": "2"
+        },
+        {
+          "text": "You're an idiot.",
+          "context": "to Tobin, before hugging him",
+          "episode": "2"
+        },
+        {
+          "text": "So a whole city forgot how to stop.",
+          "context": "on the Esk telling of Ilith",
+          "episode": "3"
+        },
+        {
+          "text": "The Wardens were here. Before. Back then. The hook is theirs.",
+          "context": "after diving to Ilith",
+          "episode": "3"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "Mira is the point-of-view character of Episode 1.",
+          "episode": "1"
+        },
+        {
+          "text": "Mira is the point-of-view character of Episodes 1 and 2.",
+          "episode": "2"
+        }
+      ],
+      "appearances": {
+        "1": "pov",
+        "2": "pov",
+        "3": "pov"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "tobin-reed": {
+      "id": "tobin-reed",
+      "type": "character",
+      "name": "Tobin Reed",
+      "aliases": [],
+      "tagline": "Mira Osk's childhood friend from the Weir.",
+      "lead": "**Tobin Reed** is [[mira-osk]]'s childhood friend from [[the-weir]] in [[port-hallow]], who considers himself the one who keeps her out of trouble.",
+      "importance": "major",
+      "status": "Alive",
+      "image": "",
+      "infobox": {
+        "Home": "[[the-weir]], [[port-hallow]]"
+      },
+      "sections": {
+        "Appearance": "Tobin is a head taller than Mira and poor at hiding it in a crowd.",
+        "Personality": "Cautious and protective, Tobin tries to talk Mira out of risky marks and is quick to see the danger in the compass. He is sceptical of legends, though he grew up on his gran's stories and still repeats them. In a crisis he is resourceful and takes danger with a grin.",
+        "Background": "Tobin grew up with [[mira-osk]] under the same leaking roof in [[the-weir]]. His gran told him the story of [[ilith]] to scare him off the water, and claimed that fish could hear lies."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "Tobin spotted Captain [[varr-dane]] on the [[fishmarket-stair]] and warned Mira not to rob him. When she unwrapped the [[brass-compass]], he called it \"a hanging\", and later dismissed [[ilith]] as one of his gran's stories while they read the unsigned letter."
+        },
+        {
+          "episode": "2",
+          "text": "Tobin boarded the *[[patience]]* with Mira and recalled his gran's claim that Esk folk can call the tide. When [[seren]] drained the harbour he went over the stern as the water dropped, but climbed back up the rudder chain and was found at dawn soaked to the waist and grinning. Mira called him an idiot and hugged him so hard he coughed."
+        },
+        {
+          "episode": "3",
+          "text": "Tobin did not appear. As the two compasses swung north toward [[port-hallow]], the episode stated that the Wardens would hang him at the [[gull-gate]] in six days."
+        }
+      ],
+      "relationships": [
+        {
+          "target": "mira-osk",
+          "label": "Childhood friend",
+          "note": "Grew up with her in the Weir; fled Port Hallow with her on the Patience.",
+          "episode": "2"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "That's not a compass. That's a hanging.",
+          "context": "on seeing the stolen compass",
+          "episode": "1"
+        },
+        {
+          "text": "Ilith is a story. A city that sank because it was greedy.",
+          "context": "reading the unsigned letter",
+          "episode": "1"
+        },
+        {
+          "text": "The northern islands. My gran said Esk folk can call the tide.",
+          "context": "on meeting Seren",
+          "episode": "2"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "Continuity: in the revised Episode 2 Tobin climbs back aboard the *Patience*, but Episode 3 says he is to be hanged at the Gull Gate in six days and he is absent from the barge.",
+          "episode": "3"
+        }
+      ],
+      "appearances": {
+        "1": "appears",
+        "2": "appears",
+        "3": "mentioned"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "ada-osk": {
+      "id": "ada-osk",
+      "type": "character",
+      "name": "Ada Osk",
+      "aliases": [],
+      "tagline": "Mira Osk's late mother.",
+      "lead": "**Ada Osk** was the mother of [[mira-osk]]. She died when her stall caught fire.",
+      "importance": "minor",
+      "status": "Deceased",
+      "image": "",
+      "infobox": {
+        "Family": [
+          "[[mira-osk]] (daughter)"
+        ]
+      },
+      "sections": {
+        "Background": "Ada kept a stall that caught fire one night; she did not come out. Her daughter Mira was burned on the right palm that night."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "Mira remembered the night Ada's stall burned and Ada did not come out."
+        },
+        {
+          "episode": "2",
+          "text": "[[varr-dane]] claimed to have known Ada, though Mira had never told anyone her mother's name in the city."
+        }
+      ],
+      "relationships": [
+        {
+          "target": "mira-osk",
+          "label": "Daughter",
+          "note": "",
+          "episode": "1"
+        },
+        {
+          "target": "varr-dane",
+          "label": "Acquaintance (claimed by him)",
+          "note": "",
+          "episode": "2"
+        }
+      ],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "mentioned",
+        "2": "mentioned"
+      },
+      "created_in": "1",
+      "updated_in": "2"
+    },
+    "varr-dane": {
+      "id": "varr-dane",
+      "type": "character",
+      "name": "Varr Dane",
+      "aliases": [
+        "Captain Varr Dane"
+      ],
+      "tagline": "Captain of the Grey Wardens in Port Hallow.",
+      "lead": "**Captain Varr Dane** is an officer of the [[grey-wardens]] in [[port-hallow]], from whom [[mira-osk]] steals the [[brass-compass]], and who pursues her to recover it.",
+      "importance": "major",
+      "status": "Unknown",
+      "image": "",
+      "infobox": {
+        "Occupation": "Warden captain",
+        "Rank / Title": "Captain",
+        "Affiliation": "[[grey-wardens]]"
+      },
+      "sections": {
+        "Appearance": "Varr Dane is an older man with a beard cropped to iron stubble, wearing the long grey coat of the Wardens."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "Varr was carrying the oilcloth-wrapped [[brass-compass]] \"like a man carrying a baby he did not want\" when [[mira-osk]] picked his pocket on the [[fishmarket-stair]]. Whistles went up after the theft, and the [[gull-gate]] bell soon rang the closing of the harbour hours early."
+        },
+        {
+          "episode": "2",
+          "text": "Varr intercepted the *[[patience]]* in a Warden cutter at the [[gull-gate]], demanding \"something of mine\". He recognised Mira as Ada Osk's daughter and said he had known her mother. [[seren]]'s tidecalling grounded the cutter and the returning sea smashed it against the harbour wall; his fate afterwards was not shown."
+        },
+        {
+          "episode": "3",
+          "text": "Mira dreamed of him saying \"I knew your mother\"."
+        }
+      ],
+      "relationships": [
+        {
+          "target": "mira-osk",
+          "label": "Quarry",
+          "note": "Pursues her for the compass; claims to have known her mother.",
+          "episode": "2"
+        },
+        {
+          "target": "ada-osk",
+          "label": "Acquaintance (claimed)",
+          "note": "Said \"I knew your mother\" to Mira.",
+          "episode": "2"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Bettany. You're carrying something of mine.",
+          "context": "from the Warden cutter",
+          "episode": "2"
+        },
+        {
+          "text": "The girl with the burned hand. Ada Osk's daughter. I knew your mother.",
+          "context": "to Mira",
+          "episode": "2"
+        }
+      ],
+      "trivia": [],
+      "appearances": {
+        "1": "appears",
+        "2": "appears",
+        "3": "mentioned"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "seren": {
+      "id": "seren",
+      "type": "character",
+      "name": "Seren of Esk",
+      "aliases": [
+        "Seren",
+        "The hooded woman"
+      ],
+      "tagline": "A tidecaller from the northern islands of Esk.",
+      "lead": "**Seren of Esk** is a tidecaller from the northern islands of [[esk]] who helps [[mira-osk]] escape [[port-hallow]] with the [[brass-compass]].",
+      "importance": "major",
+      "status": "Alive",
+      "image": "",
+      "infobox": {
+        "Age": "About thirty (apparent)",
+        "Hair / Eyes": "Cropped white-blond hair",
+        "Occupation": "Tidecaller",
+        "Home": "[[esk]]",
+        "Abilities": "[[tidecalling]]",
+        "Family": [
+          "A sister (unnamed)"
+        ]
+      },
+      "sections": {
+        "Appearance": "Seren looks about thirty, with cropped white-blond hair, a pale chin and a face that looks tired in a way sleep won't fix. She wears a hooded sea-cloak the colour of wet slate. She wore a thin silver ring through her lower lip until she used it to call the tide; now only the empty hole remains.",
+        "Personality": "Calm and economical with words, Seren moves silently and speaks with a soft northern accent. She is frank about the price of her power and refuses to treat it as a trick.",
+        "Abilities": "Seren is a [[tidecalling|tidecaller]]. Holding the silver ring from her lip in her fist and speaking \"a word that wasn't a word\", she can make the sea draw back and return. Each call takes one of her memories at random; it has already taken her sister's face, and using it leaves her exhausted and bleeding from the nose.",
+        "Background": "Seren comes from [[esk]]. By her account, her grandmother's grandmother was born the winter after [[ilith]] sank. She knows the Esk telling of Ilith's fall and was able to tell when the *[[patience]]* was sailing over the drowned city."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "The hooded woman appeared in the alley behind the net-mender's shed, warned [[mira-osk]] that the [[brass-compass]] points at drowned things and should not be held bare after dark, and admitted she had meant to steal it herself. She identified [[varr-dane]], told Mira to board the salt barge at the [[the-weir|Weir]] landing before the second bell, tossed her a blue-sealed letter and vanished."
+        },
+        {
+          "episode": "2",
+          "text": "Seren waited aboard the *[[patience]]* and named herself as Seren of [[esk]], confirming that she is a tidecaller. When [[varr-dane]]'s cutter blocked the [[gull-gate]], she drained the harbour, grounding the cutter, letting the barge pass over the sunken chain and smashing the cutter when the sea returned. Afterwards she collapsed with a nosebleed and told Mira that each call costs a memory."
+        },
+        {
+          "episode": "3",
+          "text": "Seren recognised the waters over [[ilith]] and told the Esk account of its drowning. Shown the unsigned letter, she said she remembered the alley and the wax but not writing it, and could not say whether she never wrote it or the harbour call had taken the memory. When Bettany insisted the Wardens were only two hundred years old, Seren answered, \"Then everyone's wrong.\""
+        }
+      ],
+      "relationships": [
+        {
+          "target": "mira-osk",
+          "label": "Ally",
+          "note": "Warned her about the compass and got her out of Port Hallow.",
+          "episode": "2"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "It points at drowned things. If you hold it naked after dark, eventually it will point at you.",
+          "context": "to Mira",
+          "episode": "1"
+        },
+        {
+          "text": "Someone who was going to steal it before you did.",
+          "context": "when Mira asked who she was",
+          "episode": "1"
+        },
+        {
+          "text": "Tidecalling is real. I'm a tidecaller. Don't ask me to do tricks.",
+          "context": "aboard the Patience",
+          "episode": "2"
+        },
+        {
+          "text": "I don't remember. That's the cost. Every call takes a memory. You don't get to choose which one.",
+          "context": "to Mira, after the escape",
+          "episode": "2"
+        },
+        {
+          "text": "I used to know my sister's face.",
+          "context": "to Mira",
+          "episode": "2"
+        },
+        {
+          "text": "We're over it. Ilith. Under us.",
+          "context": "aboard the Patience",
+          "episode": "3"
+        },
+        {
+          "text": "I gave you a letter. I remember the alley. I remember the wax. I don't remember writing it.",
+          "context": "to Mira",
+          "episode": "3"
+        },
+        {
+          "text": "Then everyone's wrong.",
+          "context": "to Bettany, about the Wardens' age",
+          "episode": "3"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "She was unnamed (\"the hooded woman\") in Episode 1 and introduced herself by name in Episode 2.",
+          "episode": "2"
+        }
+      ],
+      "appearances": {
+        "1": "appears",
+        "2": "appears",
+        "3": "appears"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "brass-compass": {
+      "id": "brass-compass",
+      "type": "item",
+      "name": "Brass compass",
+      "aliases": [
+        "the compass"
+      ],
+      "tagline": "A brass compass whose needle points at drowned things.",
+      "lead": "The **brass compass** is an old brass instrument whose needle does not point north but toward drowned things. [[mira-osk]]'s theft of it from [[varr-dane]] sets the story in motion.",
+      "importance": "major",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Compass",
+        "Material": "Old brass",
+        "Owner(s)": [
+          "[[grey-wardens]] ([[varr-dane]])",
+          "[[mira-osk]] (stolen)"
+        ]
+      },
+      "sections": {
+        "Description": "The compass is made of old brass and is heavier than it looks. Its glass is cracked in a star. The dial has no N; small engraved waves take its place. It was carried wrapped in oilcloth.",
+        "Powers & properties": "- The needle does not point north; it swings slowly and deliberately toward drowned things, such as the black water beyond the breakwater.\n- According to [[seren]], if held bare (\"naked\") after dark, it will eventually point at the person holding it.\n- An unsigned letter claims it \"knows the way to [[ilith]]\".\n- Its needle seems to pull at the holder \"the way a held breath pulls\". It turned to point at the [[the-weir|Weir]] landing, and once at sea it pointed south and west, out to open water.\n- Over Ilith its needle trembled, and one night it pointed straight down.\n- It has a twin, the [[second-compass|second brass compass]]; side by side, the two point together, north toward [[port-hallow]]."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "Stolen by [[mira-osk]] from Captain [[varr-dane]] on the [[fishmarket-stair]]. Its needle pointed out past the breakwater, then, at the end of the night, toward the Weir landing."
+        },
+        {
+          "episode": "2",
+          "text": "[[varr-dane]] demanded its return from the *[[patience]]*, and the deckhand [[pell]] stared at its bundle. Once at sea, it pointed south and west toward open water, which Mira took to be the way to [[ilith]]; she held it bare in the dark."
+        },
+        {
+          "episode": "3",
+          "text": "The needle trembled as the *[[patience]]* came over [[ilith]], and after Mira's dream it pointed straight down. Beside the [[second-compass|second compass]] from Ilith, it swung north toward [[port-hallow]] and the [[gull-gate]]."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "appears",
+        "2": "appears",
+        "3": "appears"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "port-hallow": {
+      "id": "port-hallow",
+      "type": "location",
+      "name": "Port Hallow",
+      "aliases": [],
+      "tagline": "Harbour city on the Lantern Coast, Mira Osk's home.",
+      "lead": "**Port Hallow** is a harbour city on the [[lantern-coast]], policed by the [[grey-wardens]] on behalf of the [[harbour-council]]. It is the home of [[mira-osk]].",
+      "importance": "major",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Harbour city",
+        "Region / Located in": "[[lantern-coast]]",
+        "Controlled by": "[[harbour-council]]",
+        "Notable residents": [
+          "[[mira-osk]]",
+          "[[tobin-reed]]",
+          "[[varr-dane]]"
+        ]
+      },
+      "sections": {
+        "Description": "Port Hallow stinks of salt and lamp oil. At dusk, lantern-men climb their ladders to light the lamps along the coast, and crowds stop to watch.",
+        "Notable places": "- [[fishmarket-stair]]\n- [[the-weir]], with its barge landing\n- [[gull-gate]], where thieves are hanged\n- The breakwater"
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "[[mira-osk]] robbed a Warden captain on the [[fishmarket-stair]], and the harbour was closed hours early that night."
+        },
+        {
+          "episode": "2",
+          "text": "[[seren]] drained the harbour to let the *[[patience]]* escape; a Warden cutter was smashed against the harbour wall."
+        },
+        {
+          "episode": "3",
+          "text": "Both compasses swung north to point back toward the city."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "appears",
+        "2": "appears",
+        "3": "mentioned"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "lantern-coast": {
+      "id": "lantern-coast",
+      "type": "location",
+      "name": "Lantern Coast",
+      "aliases": [],
+      "tagline": "The lamp-lit coast on which Port Hallow stands.",
+      "lead": "The **Lantern Coast** is the coastline on which [[port-hallow]] stands, named for the lights lit along it each dusk.",
+      "importance": "supporting",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Coast / region"
+      },
+      "sections": {
+        "Description": "Each dusk, lantern-men climb ladders to light the lamps along the coast."
+      },
+      "history": [],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "mentioned"
+      },
+      "created_in": "1",
+      "updated_in": "1"
+    },
+    "fishmarket-stair": {
+      "id": "fishmarket-stair",
+      "type": "location",
+      "name": "Fishmarket Stair",
+      "aliases": [],
+      "tagline": "Crowded stair in Port Hallow where Mira works as a pickpocket.",
+      "lead": "The **Fishmarket Stair** is a crowded stair in [[port-hallow]] where [[mira-osk]] picks pockets at dusk.",
+      "importance": "minor",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Stair / market",
+        "Region / Located in": "[[port-hallow]]"
+      },
+      "sections": {
+        "Description": "At dusk the stair fills with people watching the lamps lit along the coast, which makes it good ground for pickpockets. A net-mender's shed stands nearby."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "[[mira-osk]] stole the [[brass-compass]] from [[varr-dane]] here."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "appears"
+      },
+      "created_in": "1",
+      "updated_in": "1"
+    },
+    "the-weir": {
+      "id": "the-weir",
+      "type": "location",
+      "name": "The Weir",
+      "aliases": [
+        "Weir landing"
+      ],
+      "tagline": "Poor quarter of Port Hallow where Mira and Tobin grew up.",
+      "lead": "**The Weir** is a district of [[port-hallow]] where [[mira-osk]] and [[tobin-reed]] grew up. Its landing serves the salt barges.",
+      "importance": "supporting",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "District",
+        "Region / Located in": "[[port-hallow]]",
+        "Notable residents": [
+          "[[mira-osk]]",
+          "[[tobin-reed]]"
+        ]
+      },
+      "sections": {
+        "Description": "Mira and Tobin share a room under a leaking roof in the Weir. The **Weir landing** is where the salt barge departs."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "The hooded woman told Mira to be on the salt barge at the Weir landing before the second bell; by night's end the [[brass-compass]] pointed there."
+        },
+        {
+          "episode": "2",
+          "text": "The *[[patience]]* departed from the Weir landing at the second bell."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "mentioned",
+        "2": "appears"
+      },
+      "created_in": "1",
+      "updated_in": "2"
+    },
+    "gull-gate": {
+      "id": "gull-gate",
+      "type": "location",
+      "name": "Gull Gate",
+      "aliases": [],
+      "tagline": "Harbour gate of Port Hallow where thieves are hanged.",
+      "lead": "The **Gull Gate** is the harbour gate of [[port-hallow]], where the [[grey-wardens]] hang thieves on the first day of every month.",
+      "importance": "supporting",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Harbour gate",
+        "Region / Located in": "[[port-hallow]]",
+        "Controlled by": "[[grey-wardens]]"
+      },
+      "sections": {
+        "Description": "The Gull Gate guards the mouth of [[port-hallow]] harbour, where a chain hangs across the water. It has a bell that rings the closing of the harbour. Thieves are hanged from it on the first day of every month."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "Its bell rang the closing of the harbour hours early on the night of the compass theft."
+        },
+        {
+          "episode": "2",
+          "text": "A Warden cutter blocked the gate; [[seren]] drained the harbour so the chain sagged into the silt and the *[[patience]]* passed over it."
+        },
+        {
+          "episode": "3",
+          "text": "The two compasses pointed toward it, where [[tobin-reed]] was to be hanged in six days."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "mentioned",
+        "2": "appears",
+        "3": "mentioned"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "grey-wardens": {
+      "id": "grey-wardens",
+      "type": "faction",
+      "name": "Grey Wardens",
+      "aliases": [
+        "Wardens"
+      ],
+      "tagline": "Harbour guards of Port Hallow, serving the Harbour Council.",
+      "lead": "The **Grey Wardens** keep the harbour of [[port-hallow]] for the [[harbour-council]].",
+      "importance": "major",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Harbour guard",
+        "Members": [
+          "[[varr-dane]] (captain)"
+        ],
+        "Symbol / colours": "Long grey coats; a silver hook",
+        "Founded": "About two hundred years ago, after the Drowning, by the [[harbour-council]] (common account)"
+      },
+      "sections": {
+        "Overview": "The Wardens keep the harbour for the [[harbour-council]]. They wear long grey coats with a silver hook stitched on the collar, and they hang thieves from the [[gull-gate]] on the first day of every month.",
+        "Known members": "- Captain [[varr-dane]]",
+        "Background": "By the common account repeated by [[old-bettany]], the Council founded the Wardens about two hundred years ago, after the Drowning, to keep the harbour. Yet a lantern-man's pole bearing their silver hook lies in [[ilith]], which sank three hundred years ago."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "One of their captains, [[varr-dane]], was robbed of the [[brass-compass]]; the harbour was closed hours early. An unsigned letter warned not to let the Wardens take the compass south."
+        },
+        {
+          "episode": "2",
+          "text": "A Warden cutter under [[varr-dane]] intercepted the *[[patience]]* and was wrecked by [[seren]]'s tidecalling. Afterwards [[mira-osk]] saw the Wardens' silver hook pinned inside the collar of the barge's deckhand, [[pell]]."
+        },
+        {
+          "episode": "3",
+          "text": "In drowned [[ilith]], Mira found a lantern-man's pole with the Wardens' silver hook worked into the handle, beside a [[second-compass|second compass]]. The Wardens were to hang [[tobin-reed]] at the [[gull-gate]] in six days."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "appears",
+        "2": "appears",
+        "3": "mentioned"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "harbour-council": {
+      "id": "harbour-council",
+      "type": "faction",
+      "name": "Harbour Council",
+      "aliases": [],
+      "tagline": "The governing council of Port Hallow's harbour.",
+      "lead": "The **Harbour Council** governs the harbour of [[port-hallow]]; the [[grey-wardens]] keep the harbour on its behalf.",
+      "importance": "minor",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Council"
+      },
+      "sections": {
+        "Overview": "The Council governs the harbour of [[port-hallow]]. Years are reckoned \"by the Council's count\", in which [[ilith]] sank in the Year 412, three hundred years ago.",
+        "Background": "According to the common account, the Council founded the [[grey-wardens]] about two hundred years ago, after the Drowning, to keep the harbour."
+      },
+      "history": [
+        {
+          "episode": "3",
+          "text": "Mentioned as the source of the year count and as the founder of the Wardens."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "mentioned",
+        "3": "mentioned"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "ilith": {
+      "id": "ilith",
+      "type": "location",
+      "name": "Ilith",
+      "aliases": [],
+      "tagline": "A drowned city of tidecallers, lying under shallow sea south and west of Port Hallow.",
+      "lead": "**Ilith** is a drowned city lying under shallow water in the open sea, long told of in coastal stories. An unsigned letter claims the [[brass-compass]] knows the way there.",
+      "importance": "major",
+      "status": "Sunken",
+      "image": "",
+      "infobox": {
+        "Type": "Sunken city",
+        "Region / Located in": "Open sea south and west of [[port-hallow]], about three days by barge",
+        "Population": "The Ilithi (historical)"
+      },
+      "sections": {
+        "Background": "Ilith sank in the Year 412, three hundred years ago by the [[harbour-council|Council]]'s count. In the story [[tobin-reed]]'s gran told, it sank because it was greedy. The telling of [[esk]] is that the city drowned itself: its people, the Ilithi, were all tidecallers, who called the sea in to drown a fleet that came for them, called it too hard, lost everything they remembered, and the sea never went back.",
+        "Description": "Ilith lies in water impossibly shallow for open sea, which turns the colour of tea above it. From the surface one can see roofs, green copper domes, a bell tower with its bell still hanging, and streets laid out like the lines on a palm. Inside the bell tower is a room the sea has left untouched for three hundred years, holding a writing desk, a chair and a shelf of books gone to pulp."
+      },
+      "history": [
+        {
+          "episode": "1",
+          "text": "Named in the unsigned letter: *The compass knows the way to Ilith.*"
+        },
+        {
+          "episode": "2",
+          "text": "As the coast fell away, the [[brass-compass]] pointed south and west, toward open sea and, Mira believed, Ilith."
+        },
+        {
+          "episode": "3",
+          "text": "The *[[patience]]* reached the city on the third day at sea. [[mira-osk]] dove into the bell tower and found a [[second-compass|second brass compass]] on a desk beside a lantern-man's pole bearing the [[grey-wardens]]' silver hook."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "1": "mentioned",
+        "2": "mentioned",
+        "3": "appears"
+      },
+      "created_in": "1",
+      "updated_in": "3"
+    },
+    "pell": {
+      "id": "pell",
+      "type": "character",
+      "name": "Pell",
+      "aliases": [],
+      "tagline": "Silent deckhand on the salt barge Patience.",
+      "lead": "**Pell** is a silent boy who works as deckhand aboard the salt barge *[[patience]]* under [[old-bettany]].",
+      "importance": "supporting",
+      "status": "Alive",
+      "image": "",
+      "infobox": {
+        "Occupation": "Deckhand",
+        "Affiliation": "*[[patience]]*"
+      },
+      "sections": {
+        "Appearance": "Pell is a boy who wore a cap with a gull feather in it, until he lost it during the escape from [[port-hallow]].",
+        "Personality": "Silent; he works without speaking and watches closely."
+      },
+      "history": [
+        {
+          "episode": "2",
+          "text": "Pell coiled rope and stared at Mira's compass bundle as she came aboard. After the escape he stood at the stern watching the wreck of the Warden cutter. When he turned, his gull-feather cap was gone, and [[mira-osk]] alone saw a silver hook, the emblem of the [[grey-wardens]], pinned inside his collar."
+        }
+      ],
+      "relationships": [
+        {
+          "target": "old-bettany",
+          "label": "Employer",
+          "note": "Deckhand on her barge.",
+          "episode": "2"
+        }
+      ],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "2": "appears"
+      },
+      "created_in": "2",
+      "updated_in": "2"
+    },
+    "old-bettany": {
+      "id": "old-bettany",
+      "type": "character",
+      "name": "Old Bettany",
+      "aliases": [
+        "Bettany"
+      ],
+      "tagline": "One-eyed master of the salt barge Patience.",
+      "lead": "**Old Bettany** is the one-eyed master of the salt barge *[[patience]]*, which carries [[mira-osk]] out of [[port-hallow]].",
+      "importance": "supporting",
+      "status": "Alive",
+      "image": "",
+      "infobox": {
+        "Occupation": "Barge master",
+        "Affiliation": "*[[patience]]*"
+      },
+      "sections": {
+        "Appearance": "Bettany is a one-eyed woman.",
+        "Personality": "Discreet and unintimidated: she takes payment without asking questions and spits over the side at a Warden captain. She is practical in a crisis and holds to what \"everyone knows\"."
+      },
+      "history": [
+        {
+          "episode": "2",
+          "text": "Bettany took Mira's last three silver for passage without asking what was in the oilcloth. Confronted by [[varr-dane]], she insisted she carried only salt."
+        },
+        {
+          "episode": "3",
+          "text": "Bettany dropped the sail to let the *[[patience]]* drift over [[ilith]] and hauled Mira back aboard after her dive. She countered Mira's claim about the Wardens by saying they were two hundred years old, founded by the Council after the Drowning."
+        }
+      ],
+      "relationships": [
+        {
+          "target": "pell",
+          "label": "Deckhand",
+          "note": "Works her barge.",
+          "episode": "2"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Salt, Captain. Same as every night.",
+          "context": "to Varr Dane",
+          "episode": "2"
+        },
+        {
+          "text": "The Wardens are two hundred years old. Council founded them after the Drowning, to keep the harbour. Everyone knows that.",
+          "context": "to Mira",
+          "episode": "3"
+        }
+      ],
+      "trivia": [],
+      "appearances": {
+        "2": "appears",
+        "3": "appears"
+      },
+      "created_in": "2",
+      "updated_in": "3"
+    },
+    "patience": {
+      "id": "patience",
+      "type": "item",
+      "name": "Patience",
+      "aliases": [
+        "the salt barge"
+      ],
+      "tagline": "Salt barge that carries Mira and Seren out of Port Hallow.",
+      "lead": "The ***Patience*** is a salt barge mastered by [[old-bettany]], which carries [[mira-osk]] and [[seren]] out of [[port-hallow]].",
+      "importance": "supporting",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Salt barge",
+        "Owner(s)": [
+          "[[old-bettany]] (master)"
+        ],
+        "Crew": [
+          "[[old-bettany]] (master)",
+          "[[pell]] (deckhand)"
+        ]
+      },
+      "sections": {
+        "Description": "A flat black hull that sits low in the water, heaped with sacks of salt under tarpaulin, with a rudder chain at the stern. It sails from the [[the-weir|Weir]] landing at the second bell."
+      },
+      "history": [
+        {
+          "episode": "2",
+          "text": "The *Patience* left the Weir landing at the second bell and escaped the harbour when [[seren]] drained the water beneath the [[gull-gate]] chain."
+        },
+        {
+          "episode": "3",
+          "text": "The *Patience* reached [[ilith]] on the third day and drifted, then anchored, over the drowned city. At the end of the episode Mira began taking in the anchor rope."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "2": "appears",
+        "3": "appears"
+      },
+      "created_in": "2",
+      "updated_in": "3"
+    },
+    "esk": {
+      "id": "esk",
+      "type": "location",
+      "name": "Esk",
+      "aliases": [],
+      "tagline": "Northern islands said to be home to tidecallers.",
+      "lead": "**Esk** is a group of northern islands, the home of [[seren]]. Its people are said to be able to call the tide.",
+      "importance": "supporting",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Islands",
+        "Notable residents": [
+          "[[seren]]"
+        ]
+      },
+      "sections": {
+        "Culture / Society": "According to [[tobin-reed]]'s gran, Esk folk can call the tide; Seren confirms that [[tidecalling]] is real. Esk keeps its own account of the fall of [[ilith]]: \"the city drowned itself\"."
+      },
+      "history": [
+        {
+          "episode": "3",
+          "text": "[[seren]] gave the Esk telling of Ilith's fall."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "2": "mentioned",
+        "3": "mentioned"
+      },
+      "created_in": "2",
+      "updated_in": "3"
+    },
+    "tidecalling": {
+      "id": "tidecalling",
+      "type": "concept",
+      "name": "Tidecalling",
+      "aliases": [],
+      "tagline": "Power to command the tide, at the cost of memory.",
+      "lead": "**Tidecalling** is the power to make the sea draw back and return, associated with the people of [[esk]]. Its practitioners are called tidecallers.",
+      "importance": "major",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Magic",
+        "Practitioners": [
+          "[[seren]]",
+          "The Ilithi of [[ilith]] (Esk telling)"
+        ],
+        "Source / Origin": "Associated with [[esk]]"
+      },
+      "sections": {
+        "Overview": "A tidecaller can command the water itself: in one call, the sea in [[port-hallow]] harbour fell away twenty feet and then returned all at once. According to the telling of [[esk]], the people of [[ilith]] were all tidecallers.",
+        "Rules & limitations": "- Seren performed it holding a silver ring (from her lip) in her fist and speaking \"a word that wasn't a word\".\n- Every call takes a memory from the caller, and the caller does not choose which one.\n- The call leaves the caller physically drained, with a bleeding nose.\n- In the Esk telling, a call made too hard can take everything the callers remember, and the sea may not go back.",
+        "Known uses": "- The Ilithi called the sea in to drown a fleet that came for them, and drowned their own city (Esk telling).\n- Draining [[port-hallow]] harbour to ground [[varr-dane]]'s cutter and pass the [[gull-gate]] chain ([[ep:2]]).",
+        "Known users": "- [[seren]]\n- The Ilithi (according to the Esk telling)"
+      },
+      "history": [
+        {
+          "episode": "3",
+          "text": "[[seren]] told how the Ilithi tidecallers drowned their own city by calling the sea too hard."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "2": "mentioned",
+        "3": "mentioned"
+      },
+      "created_in": "2",
+      "updated_in": "3"
+    },
+    "second-compass": {
+      "id": "second-compass",
+      "type": "item",
+      "name": "Second brass compass",
+      "aliases": [
+        "the second compass"
+      ],
+      "tagline": "A twin of the brass compass, found in drowned Ilith.",
+      "lead": "The **second brass compass** is an instrument identical to [[mira-osk]]'s [[brass-compass]], found on a desk in the drowned bell tower of [[ilith]].",
+      "importance": "supporting",
+      "status": "",
+      "image": "",
+      "infobox": {
+        "Type": "Compass",
+        "Material": "Brass",
+        "Owner(s)": [
+          "[[mira-osk]] (recovered from Ilith)"
+        ]
+      },
+      "sections": {
+        "Description": "Identical to the first brass compass, except that its glass is whole.",
+        "Powers & properties": "- On the desk in Ilith its needle pointed up at Mira through the water.\n- Placed beside the first compass, the two swung together and pointed north, toward [[port-hallow]] and the [[gull-gate]].",
+        "Background": "It lay on a writing desk in the bell tower of Ilith, beside a lantern-man's pole with the [[grey-wardens]]' silver hook worked into its handle."
+      },
+      "history": [
+        {
+          "episode": "3",
+          "text": "[[mira-osk]] found it in the bell tower and brought it up. Laid beside the first compass on the deck of the *[[patience]]*, it swung with it to point north toward Port Hallow."
+        }
+      ],
+      "relationships": [],
+      "quotes": [],
+      "trivia": [],
+      "appearances": {
+        "3": "appears"
+      },
+      "created_in": "3",
+      "updated_in": "3"
+    }
+  },
+  "timeline": [
+    {
+      "when": "Night 1, dusk",
+      "sort": 1.1,
+      "text": "[[mira-osk]] steals the [[brass-compass]] from Captain [[varr-dane]] on the [[fishmarket-stair]].",
+      "entities": [
+        "mira-osk",
+        "varr-dane",
+        "brass-compass"
+      ],
+      "episode": "1"
+    },
+    {
+      "when": "Night 1",
+      "sort": 1.2,
+      "text": "[[seren|A hooded woman]] gives Mira an unsigned letter about [[ilith]] and tells her to flee on the salt barge.",
+      "entities": [
+        "seren",
+        "mira-osk"
+      ],
+      "episode": "1"
+    },
+    {
+      "when": "Night 1, hours early",
+      "sort": 1.3,
+      "text": "The [[gull-gate]] bell rings the closing of [[port-hallow]] harbour.",
+      "entities": [
+        "gull-gate",
+        "port-hallow"
+      ],
+      "episode": "1"
+    },
+    {
+      "when": "Night 1, second bell",
+      "sort": 1.4,
+      "text": "The *[[patience]]* leaves the Weir landing carrying [[mira-osk]], [[tobin-reed]] and [[seren]].",
+      "entities": [
+        "patience",
+        "mira-osk",
+        "seren",
+        "tobin-reed"
+      ],
+      "episode": "2"
+    },
+    {
+      "when": "Night 1",
+      "sort": 1.5,
+      "text": "[[seren]] drains [[port-hallow]] harbour by [[tidecalling]]; [[varr-dane]]'s cutter is wrecked at the [[gull-gate]].",
+      "entities": [
+        "seren",
+        "varr-dane",
+        "gull-gate",
+        "tidecalling"
+      ],
+      "episode": "2"
+    },
+    {
+      "when": "Day 2, dawn",
+      "sort": 2.0,
+      "text": "Heads are counted aboard the *[[patience]]*: [[tobin-reed]], who went overboard, is back aboard; [[mira-osk]] sees a silver hook in [[pell]]'s collar.",
+      "entities": [
+        "tobin-reed",
+        "pell",
+        "mira-osk"
+      ],
+      "episode": "2"
+    },
+    {
+      "when": "Year 412 (three hundred years ago, by the Council's count)",
+      "sort": -300,
+      "text": "[[ilith]] sinks; in the Esk telling, its tidecallers drown the city while calling the sea against an attacking fleet.",
+      "entities": [
+        "ilith",
+        "tidecalling"
+      ],
+      "episode": "3"
+    },
+    {
+      "when": "About two hundred years ago (common account)",
+      "sort": -200,
+      "text": "The [[harbour-council]] founds the [[grey-wardens]] after the Drowning, according to [[old-bettany]].",
+      "entities": [
+        "grey-wardens",
+        "harbour-council"
+      ],
+      "episode": "3"
+    },
+    {
+      "when": "Day 3 at sea",
+      "sort": 3.0,
+      "text": "The *[[patience]]* drifts over drowned [[ilith]].",
+      "entities": [
+        "patience",
+        "ilith"
+      ],
+      "episode": "3"
+    },
+    {
+      "when": "Day 4, morning",
+      "sort": 4.0,
+      "text": "[[mira-osk]] dives to Ilith's bell tower and recovers the [[second-compass]]; both compasses point back north.",
+      "entities": [
+        "mira-osk",
+        "second-compass",
+        "brass-compass"
+      ],
+      "episode": "3"
+    },
+    {
+      "when": "Six days after the dive",
+      "sort": 10.0,
+      "text": "Scheduled hanging of [[tobin-reed]] at the [[gull-gate]].",
+      "entities": [
+        "tobin-reed",
+        "gull-gate"
+      ],
+      "episode": "3"
+    }
+  ],
+  "glossary": {
+    "lantern-men": {
+      "term": "Lantern-men",
+      "created_in": "1",
+      "definition": "Workers who climb ladders at dusk to light the lamps along the Lantern Coast.",
+      "see": "lantern-coast"
+    },
+    "second-bell": {
+      "term": "Second bell",
+      "created_in": "1",
+      "definition": "A time of night marked by the harbour bells; the salt barge leaves the Weir landing at the second bell.",
+      "see": "port-hallow"
+    },
+    "tidecaller": {
+      "term": "Tidecaller",
+      "created_in": "2",
+      "definition": "One who practises tidecalling; associated with the islands of Esk.",
+      "see": "tidecalling"
+    },
+    "warden-cutter": {
+      "term": "Warden cutter",
+      "created_in": "2",
+      "definition": "A patrol boat of the Grey Wardens.",
+      "see": "grey-wardens"
+    },
+    "silver-hook": {
+      "term": "Silver hook",
+      "created_in": "2",
+      "definition": "The emblem of the Grey Wardens, stitched on the collars of their grey coats.",
+      "see": "grey-wardens"
+    },
+    "ilithi": {
+      "term": "Ilithi",
+      "created_in": "3",
+      "definition": "The people of Ilith; in the Esk telling, all of them were tidecallers.",
+      "see": "ilith"
+    },
+    "the-drowning": {
+      "term": "The Drowning",
+      "created_in": "3",
+      "definition": "A past event after which, by common account, the Harbour Council founded the Grey Wardens about two hundred years ago.",
+      "see": "grey-wardens"
+    },
+    "council-s-count": {
+      "term": "Council's count",
+      "created_in": "3",
+      "definition": "The Harbour Council's reckoning of years; Ilith sank in its Year 412, three hundred years ago.",
+      "see": "harbour-council"
+    }
+  },
+  "threads": {
+    "who-wrote-the-letter": {
+      "id": "who-wrote-the-letter",
+      "title": "Who wrote the unsigned letter?",
+      "status": "open",
+      "introduced": "1",
+      "resolved_in": null,
+      "events": [
+        {
+          "episode": "1",
+          "text": "The letter, sealed in blue wax, reads: *The compass knows the way to Ilith. Do not let the Wardens take it south.* The hand slants backward, as if written left-handed and in a hurry."
+        },
+        {
+          "episode": "3",
+          "text": "Seren gave Mira the letter and remembers the alley and the wax, but not writing it; the tidecalling may have taken the memory."
+        }
+      ],
+      "resolution": ""
+    },
+    "why-the-wardens-had-the-compass": {
+      "id": "why-the-wardens-had-the-compass",
+      "title": "Why did the Wardens have the compass, and where were they taking it?",
+      "status": "open",
+      "introduced": "1",
+      "resolved_in": null,
+      "events": [
+        {
+          "episode": "1",
+          "text": "Varr Dane carried it like an unwanted burden; the letter warns not to let the Wardens take it south."
+        },
+        {
+          "episode": "3",
+          "text": "A twin compass lies in drowned Ilith beside a lantern-man's pole bearing the Wardens' silver hook."
+        }
+      ],
+      "resolution": ""
+    },
+    "compass-points-at-you": {
+      "id": "compass-points-at-you",
+      "title": "Will the compass point at its holder?",
+      "status": "open",
+      "introduced": "1",
+      "resolved_in": null,
+      "events": [
+        {
+          "episode": "1",
+          "text": "The hooded woman warns that if held bare after dark, it will eventually point at the holder."
+        },
+        {
+          "episode": "2",
+          "text": "Mira deliberately holds the compass bare in the dark at the end of Episode 2."
+        },
+        {
+          "episode": "3",
+          "text": "After a dream about Varr Dane, Mira wakes with the compass in her fist and the needle pointing straight down."
+        }
+      ],
+      "resolution": ""
+    },
+    "is-ilith-real": {
+      "id": "is-ilith-real",
+      "title": "Is Ilith real?",
+      "status": "resolved",
+      "introduced": "1",
+      "resolved_in": "3",
+      "events": [
+        {
+          "episode": "1",
+          "text": "Tobin calls Ilith a story; the letter claims the compass knows the way there."
+        },
+        {
+          "episode": "2",
+          "text": "At sea the compass points south and west, which Mira takes to be toward Ilith."
+        },
+        {
+          "episode": "3",
+          "text": "The Patience finds the drowned city under shallow water and Mira dives into its bell tower."
+        }
+      ],
+      "resolution": "Yes: Ilith lies drowned in shallow water three days' sail from Port Hallow (Episode 3)."
+    },
+    "how-varr-knew-ada": {
+      "id": "how-varr-knew-ada",
+      "title": "How did Varr Dane know Ada Osk?",
+      "status": "open",
+      "introduced": "2",
+      "resolved_in": null,
+      "events": [
+        {
+          "episode": "2",
+          "text": "Varr names Mira as Ada Osk's daughter and says he knew her mother, though Mira never told anyone her mother's name in the city."
+        },
+        {
+          "episode": "3",
+          "text": "Mira dreams of Varr saying \"I knew your mother\"."
+        }
+      ],
+      "resolution": ""
+    },
+    "pells-hook": {
+      "id": "pells-hook",
+      "title": "Why does Pell wear a Warden hook?",
+      "status": "open",
+      "introduced": "2",
+      "resolved_in": null,
+      "events": [
+        {
+          "episode": "2",
+          "text": "After the escape, Pell's gull-feather cap is gone and Mira alone sees a silver hook, the Grey Wardens' emblem, pinned inside his collar. Earlier he stared at the compass bundle."
+        }
+      ],
+      "resolution": ""
+    },
+    "serens-purpose": {
+      "id": "serens-purpose",
+      "title": "What does Seren want with the compass?",
+      "status": "open",
+      "introduced": "2",
+      "resolved_in": null,
+      "events": [
+        {
+          "episode": "2",
+          "text": "Seren admitted she meant to steal it herself, yet guided Mira out of the city; her aims remain unstated."
+        }
+      ],
+      "resolution": ""
+    },
+    "wardens-in-ilith": {
+      "id": "wardens-in-ilith",
+      "title": "How did a Warden hook end up in Ilith?",
+      "status": "open",
+      "introduced": "3",
+      "resolved_in": null,
+      "events": [
+        {
+          "episode": "3",
+          "text": "Ilith sank three hundred years ago, but the Wardens are said to be only two hundred years old, founded after the Drowning. Seren says \"Then everyone's wrong.\""
+        }
+      ],
+      "resolution": ""
+    },
+    "tobins-hanging": {
+      "id": "tobins-hanging",
+      "title": "Will Tobin hang at the Gull Gate?",
+      "status": "open",
+      "introduced": "3",
+      "resolved_in": null,
+      "events": [
+        {
+          "episode": "3",
+          "text": "The two compasses point back toward the Gull Gate, where the Wardens are to hang Tobin in six days. Mira starts hauling in the anchor."
+        }
+      ],
+      "resolution": ""
+    },
+    "twin-compasses": {
+      "id": "twin-compasses",
+      "title": "Why do the two compasses point back to Port Hallow?",
+      "status": "open",
+      "introduced": "3",
+      "resolved_in": null,
+      "events": [
+        {
+          "episode": "3",
+          "text": "Side by side, the compasses swing together and point north, toward Port Hallow and the Gull Gate."
+        }
+      ],
+      "resolution": ""
+    }
+  }
+}

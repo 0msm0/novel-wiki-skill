@@ -1,0 +1,12 @@
+{
+  "title": "The Lantern Coast",
+  "tagline": "A serialized fantasy novel",
+  "author": "",
+  "project_root": "..",
+  "episode_globs": [
+    "chapters/*.md"
+  ],
+  "episode_label": "Episode",
+  "accent": "#8b5cf6",
+  "spoiler_filter": true
+}

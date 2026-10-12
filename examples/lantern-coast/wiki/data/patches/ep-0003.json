@@ -1,0 +1,313 @@
+{
+  "episode": {
+    "number": 3,
+    "title": "What the Water Keeps",
+    "source": "chapters/03-what-the-water-keeps.md",
+    "pov": [
+      "mira-osk"
+    ],
+    "summary": "The *[[patience]]* finds sunken [[ilith]], and [[seren]] tells the Esk account of how its tidecallers drowned the city. Seren cannot remember writing the unsigned letter. [[mira-osk]] dives into the drowned bell tower and recovers a [[second-compass|second brass compass]] lying beside a pole bearing the [[grey-wardens]]' silver hook; both compasses then point back toward [[port-hallow]], where [[tobin-reed]] is to hang in six days.",
+    "synopsis": [
+      "On the third day at sea the water turned the colour of tea and the [[brass-compass]] needle began to tremble. [[seren]] said they were over [[ilith]]. [[old-bettany]] dropped the sail and let the *[[patience]]* drift over impossibly shallow water, through which [[mira-osk]] could see roofs, green copper domes, a bell tower with its bell still hanging and streets laid out like the lines on a palm.",
+      "Seren told them the city sank in the Year 412, three hundred years ago by the [[harbour-council|Council]]'s count. In the telling of [[esk]], the city drowned itself: the Ilithi were all tidecallers, and when a fleet came for them they called the sea in to drown it, called too hard, lost everything they remembered, and the sea never went back. Mira summed it up: a whole city forgot how to stop.",
+      "Mira showed Seren the unsigned letter with its backward-slanting hand. Seren went still: she remembered the alley and the wax, but not writing the letter. Touching the empty hole in her lip where her ring had been, she allowed that perhaps she had not written it, or perhaps the harbour call had taken the memory.",
+      "That night Mira dreamed of [[varr-dane]] saying *I knew your mother*, and woke with the compass in her fist and its needle pointing straight down.",
+      "In the morning she dove. Through the arched window of the bell tower she found a room the sea had not touched in three hundred years: a writing desk, a chair, a shelf of books gone to pulp, and on the desk a brass compass identical to hers, its glass whole, its needle pointing up at her. Beside it lay a lantern-man's pole with the silver hook of the Grey Wardens worked into its handle.",
+      "Bettany hauled Mira back aboard with the second compass. When Mira said the Wardens had been in Ilith long ago, Bettany objected that the Wardens are two hundred years old, founded by the Council after the Drowning to keep the harbour. \"Then everyone's wrong,\" said Seren.",
+      "Set side by side on the deck, the two compasses swung together and pointed north, back toward Port Hallow and the [[gull-gate]], where in six days the Wardens would hang [[tobin-reed]]. Mira began taking in the anchor rope without being asked."
+    ],
+    "word_count": 477
+  },
+  "entities": [
+    {
+      "id": "mira-osk",
+      "sections": {
+        "Personality": "Mira is bold to the point of recklessness, preferring to rob a Warden because \"Wardens have the best pockets\". She loves Port Hallow \"the way you love a dog that bites\" and treats danger with dry humour. She assumes that everything costs something. Fiercely attached to [[tobin-reed]], she scolds and hugs him in the same breath, and she is defiant about the compass, holding it bare after dark despite the warning. When she decides to act she does not wait to be told.",
+        "Abilities": "A skilled pickpocket who works crowds at dusk, Mira is quick in her left hand and practised at bumping a mark, apologising and disappearing. She is also a capable swimmer, able to dive down to the drowned bell tower of [[ilith]] and back."
+      },
+      "history": "Mira looked down through the shallow sea at the roofs of [[ilith]] and showed [[seren]] the unsigned letter, learning that Seren could not remember writing it. After dreaming of [[varr-dane]]'s words about her mother, she woke to find the [[brass-compass]] pointing straight down. In the morning she dove into the drowned bell tower and brought up a [[second-compass|second compass]], having found it beside a pole bearing the [[grey-wardens]]' silver hook, and argued that the Wardens had been in Ilith long ago. When both compasses pointed back toward [[port-hallow]], she began taking in the anchor rope.",
+      "quotes": [
+        {
+          "text": "So a whole city forgot how to stop.",
+          "context": "on the Esk telling of Ilith"
+        },
+        {
+          "text": "The Wardens were here. Before. Back then. The hook is theirs.",
+          "context": "after diving to Ilith"
+        }
+      ],
+      "presence": "pov"
+    },
+    {
+      "id": "seren",
+      "sections": {
+        "Appearance": "Seren looks about thirty, with cropped white-blond hair, a pale chin and a face that looks tired in a way sleep won't fix. She wears a hooded sea-cloak the colour of wet slate. She wore a thin silver ring through her lower lip until she used it to call the tide; now only the empty hole remains.",
+        "Background": "Seren comes from [[esk]]. By her account, her grandmother's grandmother was born the winter after [[ilith]] sank. She knows the Esk telling of Ilith's fall and was able to tell when the *[[patience]]* was sailing over the drowned city."
+      },
+      "history": "Seren recognised the waters over [[ilith]] and told the Esk account of its drowning. Shown the unsigned letter, she said she remembered the alley and the wax but not writing it, and could not say whether she never wrote it or the harbour call had taken the memory. When Bettany insisted the Wardens were only two hundred years old, Seren answered, \"Then everyone's wrong.\"",
+      "quotes": [
+        {
+          "text": "We're over it. Ilith. Under us.",
+          "context": "aboard the Patience"
+        },
+        {
+          "text": "I gave you a letter. I remember the alley. I remember the wax. I don't remember writing it.",
+          "context": "to Mira"
+        },
+        {
+          "text": "Then everyone's wrong.",
+          "context": "to Bettany, about the Wardens' age"
+        }
+      ],
+      "presence": "appears"
+    },
+    {
+      "id": "tobin-reed",
+      "history": "Tobin did not appear. As the two compasses swung north toward [[port-hallow]], the episode stated that the Wardens would hang him at the [[gull-gate]] in six days.",
+      "trivia": [
+        "Continuity: in the revised Episode 2 Tobin climbs back aboard the *Patience*, but Episode 3 says he is to be hanged at the Gull Gate in six days and he is absent from the barge."
+      ],
+      "presence": "mentioned"
+    },
+    {
+      "id": "old-bettany",
+      "sections": {
+        "Personality": "Discreet and unintimidated: she takes payment without asking questions and spits over the side at a Warden captain. She is practical in a crisis and holds to what \"everyone knows\"."
+      },
+      "history": "Bettany dropped the sail to let the *[[patience]]* drift over [[ilith]] and hauled Mira back aboard after her dive. She countered Mira's claim about the Wardens by saying they were two hundred years old, founded by the Council after the Drowning.",
+      "quotes": [
+        {
+          "text": "The Wardens are two hundred years old. Council founded them after the Drowning, to keep the harbour. Everyone knows that.",
+          "context": "to Mira"
+        }
+      ],
+      "presence": "appears"
+    },
+    {
+      "id": "varr-dane",
+      "history": "Mira dreamed of him saying \"I knew your mother\".",
+      "presence": "mentioned"
+    },
+    {
+      "id": "ilith",
+      "tagline": "A drowned city of tidecallers, lying under shallow sea south and west of Port Hallow.",
+      "lead": "**Ilith** is a drowned city lying under shallow water in the open sea, long told of in coastal stories. An unsigned letter claims the [[brass-compass]] knows the way there.",
+      "status": "Sunken",
+      "infobox": {
+        "Type": "Sunken city",
+        "Region / Located in": "Open sea south and west of [[port-hallow]], about three days by barge",
+        "Population": "The Ilithi (historical)"
+      },
+      "sections": {
+        "Description": "Ilith lies in water impossibly shallow for open sea, which turns the colour of tea above it. From the surface one can see roofs, green copper domes, a bell tower with its bell still hanging, and streets laid out like the lines on a palm. Inside the bell tower is a room the sea has left untouched for three hundred years, holding a writing desk, a chair and a shelf of books gone to pulp.",
+        "Background": "Ilith sank in the Year 412, three hundred years ago by the [[harbour-council|Council]]'s count. In the story [[tobin-reed]]'s gran told, it sank because it was greedy. The telling of [[esk]] is that the city drowned itself: its people, the Ilithi, were all tidecallers, who called the sea in to drown a fleet that came for them, called it too hard, lost everything they remembered, and the sea never went back."
+      },
+      "history": "The *[[patience]]* reached the city on the third day at sea. [[mira-osk]] dove into the bell tower and found a [[second-compass|second brass compass]] on a desk beside a lantern-man's pole bearing the [[grey-wardens]]' silver hook.",
+      "presence": "appears"
+    },
+    {
+      "id": "second-compass",
+      "type": "item",
+      "name": "Second brass compass",
+      "aliases": [
+        "the second compass"
+      ],
+      "importance": "supporting",
+      "tagline": "A twin of the brass compass, found in drowned Ilith.",
+      "lead": "The **second brass compass** is an instrument identical to [[mira-osk]]'s [[brass-compass]], found on a desk in the drowned bell tower of [[ilith]].",
+      "infobox": {
+        "Type": "Compass",
+        "Material": "Brass",
+        "Owner(s)": [
+          "[[mira-osk]] (recovered from Ilith)"
+        ]
+      },
+      "sections": {
+        "Description": "Identical to the first brass compass, except that its glass is whole.",
+        "Powers & properties": "- On the desk in Ilith its needle pointed up at Mira through the water.\n- Placed beside the first compass, the two swung together and pointed north, toward [[port-hallow]] and the [[gull-gate]].",
+        "Background": "It lay on a writing desk in the bell tower of Ilith, beside a lantern-man's pole with the [[grey-wardens]]' silver hook worked into its handle."
+      },
+      "history": "[[mira-osk]] found it in the bell tower and brought it up. Laid beside the first compass on the deck of the *[[patience]]*, it swung with it to point north toward Port Hallow.",
+      "presence": "appears"
+    },
+    {
+      "id": "brass-compass",
+      "sections": {
+        "Powers & properties": "- The needle does not point north; it swings slowly and deliberately toward drowned things, such as the black water beyond the breakwater.\n- According to [[seren]], if held bare (\"naked\") after dark, it will eventually point at the person holding it.\n- An unsigned letter claims it \"knows the way to [[ilith]]\".\n- Its needle seems to pull at the holder \"the way a held breath pulls\". It turned to point at the [[the-weir|Weir]] landing, and once at sea it pointed south and west, out to open water.\n- Over Ilith its needle trembled, and one night it pointed straight down.\n- It has a twin, the [[second-compass|second brass compass]]; side by side, the two point together, north toward [[port-hallow]]."
+      },
+      "history": "The needle trembled as the *[[patience]]* came over [[ilith]], and after Mira's dream it pointed straight down. Beside the [[second-compass|second compass]] from Ilith, it swung north toward [[port-hallow]] and the [[gull-gate]].",
+      "presence": "appears"
+    },
+    {
+      "id": "grey-wardens",
+      "infobox": {
+        "Founded": "About two hundred years ago, after the Drowning, by the [[harbour-council]] (common account)",
+        "Symbol / colours": "Long grey coats; a silver hook"
+      },
+      "sections": {
+        "Overview": "The Wardens keep the harbour for the [[harbour-council]]. They wear long grey coats with a silver hook stitched on the collar, and they hang thieves from the [[gull-gate]] on the first day of every month.",
+        "Background": "By the common account repeated by [[old-bettany]], the Council founded the Wardens about two hundred years ago, after the Drowning, to keep the harbour. Yet a lantern-man's pole bearing their silver hook lies in [[ilith]], which sank three hundred years ago."
+      },
+      "history": "In drowned [[ilith]], Mira found a lantern-man's pole with the Wardens' silver hook worked into the handle, beside a [[second-compass|second compass]]. The Wardens were to hang [[tobin-reed]] at the [[gull-gate]] in six days.",
+      "presence": "mentioned"
+    },
+    {
+      "id": "harbour-council",
+      "sections": {
+        "Overview": "The Council governs the harbour of [[port-hallow]]. Years are reckoned \"by the Council's count\", in which [[ilith]] sank in the Year 412, three hundred years ago.",
+        "Background": "According to the common account, the Council founded the [[grey-wardens]] about two hundred years ago, after the Drowning, to keep the harbour."
+      },
+      "history": "Mentioned as the source of the year count and as the founder of the Wardens.",
+      "presence": "mentioned"
+    },
+    {
+      "id": "tidecalling",
+      "infobox": {
+        "Practitioners": [
+          "[[seren]]",
+          "The Ilithi of [[ilith]] (Esk telling)"
+        ]
+      },
+      "sections": {
+        "Overview": "A tidecaller can command the water itself: in one call, the sea in [[port-hallow]] harbour fell away twenty feet and then returned all at once. According to the telling of [[esk]], the people of [[ilith]] were all tidecallers.",
+        "Rules & limitations": "- Seren performed it holding a silver ring (from her lip) in her fist and speaking \"a word that wasn't a word\".\n- Every call takes a memory from the caller, and the caller does not choose which one.\n- The call leaves the caller physically drained, with a bleeding nose.\n- In the Esk telling, a call made too hard can take everything the callers remember, and the sea may not go back.",
+        "Known uses": "- The Ilithi called the sea in to drown a fleet that came for them, and drowned their own city (Esk telling).\n- Draining [[port-hallow]] harbour to ground [[varr-dane]]'s cutter and pass the [[gull-gate]] chain ([[ep:2]]).",
+        "Known users": "- [[seren]]\n- The Ilithi (according to the Esk telling)"
+      },
+      "history": "[[seren]] told how the Ilithi tidecallers drowned their own city by calling the sea too hard.",
+      "presence": "mentioned"
+    },
+    {
+      "id": "esk",
+      "sections": {
+        "Culture / Society": "According to [[tobin-reed]]'s gran, Esk folk can call the tide; Seren confirms that [[tidecalling]] is real. Esk keeps its own account of the fall of [[ilith]]: \"the city drowned itself\"."
+      },
+      "history": "[[seren]] gave the Esk telling of Ilith's fall.",
+      "presence": "mentioned"
+    },
+    {
+      "id": "patience",
+      "history": "The *Patience* reached [[ilith]] on the third day and drifted, then anchored, over the drowned city. At the end of the episode Mira began taking in the anchor rope.",
+      "presence": "appears"
+    },
+    {
+      "id": "gull-gate",
+      "history": "The two compasses pointed toward it, where [[tobin-reed]] was to be hanged in six days.",
+      "presence": "mentioned"
+    },
+    {
+      "id": "port-hallow",
+      "history": "Both compasses swung north to point back toward the city.",
+      "presence": "mentioned"
+    }
+  ],
+  "timeline": [
+    {
+      "when": "Year 412 (three hundred years ago, by the Council's count)",
+      "sort": -300,
+      "text": "[[ilith]] sinks; in the Esk telling, its tidecallers drown the city while calling the sea against an attacking fleet.",
+      "entities": [
+        "ilith",
+        "tidecalling"
+      ]
+    },
+    {
+      "when": "About two hundred years ago (common account)",
+      "sort": -200,
+      "text": "The [[harbour-council]] founds the [[grey-wardens]] after the Drowning, according to [[old-bettany]].",
+      "entities": [
+        "grey-wardens",
+        "harbour-council"
+      ]
+    },
+    {
+      "when": "Day 3 at sea",
+      "sort": 3.0,
+      "text": "The *[[patience]]* drifts over drowned [[ilith]].",
+      "entities": [
+        "patience",
+        "ilith"
+      ]
+    },
+    {
+      "when": "Day 4, morning",
+      "sort": 4.0,
+      "text": "[[mira-osk]] dives to Ilith's bell tower and recovers the [[second-compass]]; both compasses point back north.",
+      "entities": [
+        "mira-osk",
+        "second-compass",
+        "brass-compass"
+      ]
+    },
+    {
+      "when": "Six days after the dive",
+      "sort": 10.0,
+      "text": "Scheduled hanging of [[tobin-reed]] at the [[gull-gate]].",
+      "entities": [
+        "tobin-reed",
+        "gull-gate"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ilithi",
+      "definition": "The people of Ilith; in the Esk telling, all of them were tidecallers.",
+      "see": "ilith"
+    },
+    {
+      "term": "The Drowning",
+      "definition": "A past event after which, by common account, the Harbour Council founded the Grey Wardens about two hundred years ago.",
+      "see": "grey-wardens"
+    },
+    {
+      "term": "Council's count",
+      "definition": "The Harbour Council's reckoning of years; Ilith sank in its Year 412, three hundred years ago.",
+      "see": "harbour-council"
+    }
+  ],
+  "threads": [
+    {
+      "id": "is-ilith-real",
+      "title": "Is Ilith real?",
+      "status": "resolved",
+      "text": "The Patience finds the drowned city under shallow water and Mira dives into its bell tower.",
+      "resolution": "Yes: Ilith lies drowned in shallow water three days' sail from Port Hallow (Episode 3)."
+    },
+    {
+      "id": "who-wrote-the-letter",
+      "title": "Who wrote the unsigned letter?",
+      "text": "Seren gave Mira the letter and remembers the alley and the wax, but not writing it; the tidecalling may have taken the memory."
+    },
+    {
+      "id": "why-the-wardens-had-the-compass",
+      "title": "Why did the Wardens have the compass, and where were they taking it?",
+      "text": "A twin compass lies in drowned Ilith beside a lantern-man's pole bearing the Wardens' silver hook."
+    },
+    {
+      "id": "wardens-in-ilith",
+      "title": "How did a Warden hook end up in Ilith?",
+      "text": "Ilith sank three hundred years ago, but the Wardens are said to be only two hundred years old, founded after the Drowning. Seren says \"Then everyone's wrong.\""
+    },
+    {
+      "id": "compass-points-at-you",
+      "title": "Will the compass point at its holder?",
+      "text": "After a dream about Varr Dane, Mira wakes with the compass in her fist and the needle pointing straight down."
+    },
+    {
+      "id": "how-varr-knew-ada",
+      "title": "How did Varr Dane know Ada Osk?",
+      "text": "Mira dreams of Varr saying \"I knew your mother\"."
+    },
+    {
+      "id": "tobins-hanging",
+      "title": "Will Tobin hang at the Gull Gate?",
+      "text": "The two compasses point back toward the Gull Gate, where the Wardens are to hang Tobin in six days. Mira starts hauling in the anchor."
+    },
+    {
+      "id": "twin-compasses",
+      "title": "Why do the two compasses point back to Port Hallow?",
+      "text": "Side by side, the compasses swing together and point north, toward Port Hallow and the Gull Gate."
+    }
+  ]
+}

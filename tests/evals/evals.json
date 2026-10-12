@@ -1,0 +1,29 @@
+{
+ "skill_name": "novel-wiki",
+ "evals": [
+  {
+   "id": 1,
+   "prompt": "hey so i've been writing my novel episode by episode in this project (chapters folder). can you update wiki",
+   "expected_output": "New wiki/ folder with config, data, history and an HTML site covering episodes 1-2: character pages for Mira, Tobin, Seren, Varr Dane, Ada Osk, Bettany; location, faction, item and concept pages; episode guide; timeline; threads; a history entry listing steps and files read.",
+   "files": [
+    "fixtures/lantern-coast/chapters/01-the-brass-thief.md",
+    "fixtures/lantern-coast/chapters/02-the-salt-barge.md"
+   ]
+  },
+  {
+   "id": 2,
+   "prompt": "I wrote episode 3 and also reworked episode 2 (Tobin escapes now, and there's a new deckhand). update the wiki please",
+   "expected_output": "Episode 3 added, episode 2 revised in place without duplicates; Tobin no longer captured; Pell added; continuity clash with episode 3 (Tobin to be hanged) flagged; second history entry.",
+   "files": [
+    "fixtures/lantern-coast/chapters/03-what-the-water-keeps.md",
+    "fixtures/revisions/02-the-salt-barge.REVISED.md"
+   ]
+  },
+  {
+   "id": 3,
+   "prompt": "small fix on the wiki: Mira is 20 not 19, and Old Bettany should be a major character now",
+   "expected_output": "Mira's age shows 20 and Bettany is major on the site; manuscript untouched; history entry records the correction.",
+   "files": []
+  }
+ ]
+}
